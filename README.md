@@ -13,3 +13,8 @@ _Cute Tools BY Python_
 
 006.Test_pandas_func, pandas列函数
 
+007.Test_count_XXX_in_string, 用于计算给定字符串中是否有连续出现n次的字符
+
+
+
+_END_
