@@ -11,3 +11,5 @@ _Cute Tools BY Python_
 
 005.Test_SocketServer, Socket5代理服务器[爬虫]
 
+006.Test_pandas_func, pandas列函数
+
