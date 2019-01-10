@@ -21,4 +21,8 @@ _Cute Tools BY Python_
 
 010.Test_pymysql_pools, mysql数据库连接池 by pymysql
 
+011.Test_requests&requests_futures, requests连接优化
+
+
+
 _END_
