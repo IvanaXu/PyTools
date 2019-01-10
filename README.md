@@ -15,9 +15,9 @@ _Cute Tools BY Python_
 
 007.Test_count_XXX_in_string, 用于计算给定字符串中是否有连续出现n次的字符
 
-008.Test_pandas_query, pandas query 筛选
+008.Test_pandas_query, pandas-query筛选
 
-009.Test_multiprocessing_run, multiprocessing 多线程
+009.Test_multiprocessing_run, multiprocessing多线程
 
 
 
