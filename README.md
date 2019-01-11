@@ -23,6 +23,7 @@ _Cute Tools BY Python_
 
 011.Test_requests&requests_futures, requests连接优化及堵塞问题
 
+012.Test_py_memory, python代码内存检查
 
 
 _END_
