@@ -2,7 +2,7 @@
 # @auth ivan
 # @time 20180706 10:58
 # @goal test the socket server.
-# TODO：HOW TO BUILD THE SERVER.
+# HOW TO BUILD THE SERVER. "005.Test_SocketServer_shell.sh"
 import requests
 
 print('--1--')
