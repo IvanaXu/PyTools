@@ -27,9 +27,11 @@ _Cute Tools BY Python_
 
 013.Test_DecisionTreeClassifier_var, py决策树 
 
-`TODO: bugs, no order by the numbers!!!`
+`TODO: 013 bugs, if no order by the numbers!!!`
 
 014.Test_CardBinCheck, 支付宝卡号验证工具
+
+015.Test_F1-micro&F1-macro, sklearn metrics F1
 
 _END_
 
