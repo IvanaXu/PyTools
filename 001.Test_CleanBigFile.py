@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @auth ivan
 # @time 2018-07-16 11:45:41
-# @goal clean the big file
+# @goal clean the big file hello
 
 import os
 import pandas as pd
