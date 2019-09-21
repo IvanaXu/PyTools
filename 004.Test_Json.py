@@ -15,5 +15,13 @@ for j in info_json:
     info_json[j] = str(info_json[j])
 print(info_json)
 
-
-
+# import json
+# with open("data.txt", "r", encoding="gbk") as f:
+#     data = f.readlines()
+# json_file = data[0]
+# j_obj = json.loads(json_file)
+# print(j_obj)
+# print(j_obj["decisionResult"])
+# print(j_obj["decisionResult"].keys())
+# for i, j in j_obj["decisionResult"].items():
+#     print(i, j)
