@@ -16,7 +16,7 @@ _Cute Tools BY Python_
 013.Test_DecisionTreeClassifier_var, py决策树 # TODO: bug!!!
 014.Test_CardBinCheck, 支付宝卡号验证工具
 015.Test_F1-micro&F1-macro, sklearn metrics F1
-016.016.Notice_use_jupyter, jupyter使用提醒
+016.Notice_use_jupyter, jupyter使用提醒
 
 ~~Updated 20190212 happy new year!~~
 Wait For Next!!!！
