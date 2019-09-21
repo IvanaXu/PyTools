@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # @auth ivan
 # @time 2019-09-02 11:26:03
-# @goal leetcode rotate-image
+# @goal rotate-image
 """
 matrix1 =
 [
