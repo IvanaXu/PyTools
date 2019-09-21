@@ -26,29 +26,25 @@ matrix = \
 
 
 class Solution1:
-    def rotate(self, matrix) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
-        n, r = len(matrix), []
+    def rotate(self, m) -> None:
+        n, r = len(m), []
         if n:
             for i in range(0, n):
                 r1 = []
                 for j in range(0, n):
                     k = n-j-1
-                    r1.append(matrix[k][i])
+                    r1.append(m[k][i])
                 r.append(r1)
-        return r
+        print(r)
+
 
 class Solution2:
-    def rotate(self, matrix) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
-        matrix[:] = map(list, zip(*matrix[::-1]))
-        return matrix
+    def rotate(self, m) -> None:
+        # Life is short
+        print(map(list, zip(*m[::-1]))[:])
 
-print(Solution1().rotate(matrix), Solution1().rotate(matrix))
+Solution1().rotate(matrix)
+Solution1().rotate(matrix)
 
 
 
