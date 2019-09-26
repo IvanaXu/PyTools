@@ -1,6 +1,6 @@
 # -*-coding:utf-8-*-
 # @auth ivan
-# @time 20190926 18:07
+# @time 2019-09-26 18:07
 # @goal test the pandas for data group by
 import pandas as pd
 data = pd.DataFrame([
