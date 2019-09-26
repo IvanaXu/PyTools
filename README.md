@@ -19,11 +19,9 @@ _Cute Tools BY Python_
 016.Notice_use_jupyter, jupyter使用提醒
 017.Model_build_GridSearchCV, GridSearchCV
 018.Test_rotate_image, 矩阵转换
-
+019.Some_By_30-seconds, 30秒代码学习摘要
 
 ~~Updated 20190212 happy new year!~~
 Wait For Next!!!！
 ```
-
-
 
