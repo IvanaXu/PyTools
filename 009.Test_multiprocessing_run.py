@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @auth ivan
 # @time 20190110
-# @goal test the multiprocessing run
+# @goal tPatterns the multiprocessing run
 import os
 import time
 import multiprocessing

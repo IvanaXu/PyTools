@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # @auth ivan
 # @time 20181230
-# @goal test the json
+# @goal tPatterns the json
 import json
 info = """callback({"status":"1","info":"OK","infocode":"10000","count":"1","geocodes":[{"formatted_address":"
 广东省广州市黄埔区茅岗路|1103","country":"中国","province":"广东省","citycode":"020","city":"广州市",

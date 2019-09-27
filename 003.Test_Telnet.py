@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @auth ivan
 # @time 20190101
-# @goal test the telnet
+# @goal tPatterns the telnet
 import telnetlib
 import time
 import random

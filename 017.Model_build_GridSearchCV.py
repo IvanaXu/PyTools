@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # @auth ivan
 # @time 2019-08-24 18:05:00
-# @goal test the model
+# @goal tPatterns the model
 from sklearn.datasets.california_housing import fetch_california_housing
 from sklearn.model_selection import train_test_split
 import joblib
