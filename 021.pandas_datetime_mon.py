@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # @auth ivan
 # @time 2019-09-26 18:17
-# @goal tPatterns pandas datetime
+# @goal test pandas datetime
 
 import pandas as pd
 df = pd.DataFrame(

@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # @auth ivan
 # @time 2019-09-26 18:07
-# @goal tPatterns the pandas for data group by
+# @goal test the pandas for data group by
 import pandas as pd
 data = pd.DataFrame([
     ["A","k1",1,2],

@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # @auth ivan
 # @time 20181230
-# @goal tPatterns the json
+# @goal test the json
 
 # 1
 import json

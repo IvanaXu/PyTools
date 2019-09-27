@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # @auth ivan
 # @time 20180706 10:58
-# @goal tPatterns the socket server.
+# @goal test the socket server.
 # HOW TO BUILD THE SERVER. "005.Test_SocketServer_shell.sh"
 import requests
 
