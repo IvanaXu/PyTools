@@ -22,7 +22,7 @@ _Cute Tools BY Python_
 017.Model_build_GridSearchCV, GridSearchCV
 018.Test_rotate_image, 矩阵转换
 019.Some_By_30-seconds, 30秒代码学习摘要
-020.pandas_groupby, pandas Groupby 
+020.pandas_groupby&merge, pandas -Groupby; -Merge
 021.pandas_datetime_mon, pandas Datetime
 022.Py_SimpleHTTPServer, PyModule For The HTTPServer
 
