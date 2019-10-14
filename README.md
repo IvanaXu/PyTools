@@ -25,9 +25,10 @@ _Cute Tools BY Python_
 020.pandas_groupby&merge, pandas -Groupby; -Merge
 021.pandas_datetime_mon, pandas Datetime
 022.Py_SimpleHTTPServer, PyModule For The HTTPServer
-
+023.Notice_python, Python坑
 
 ~~Updated 20190212 happy new year!~~
 TODO: the list of pandas
-Wait For Next!!!！
+Please Wait For Next!!!
 ```
+
