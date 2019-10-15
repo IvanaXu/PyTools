@@ -34,6 +34,5 @@ _Cute Tools By Python_
 ~~Updated 20190212 happy new year!~~
 ~~Please Wait For Next!!!~~
 TODO: 
-    -1- The list of pandas;
+    -1- THE LIST OF PANDAS;
 ```
-
