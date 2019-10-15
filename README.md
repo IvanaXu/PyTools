@@ -26,8 +26,10 @@ _Cute Tools BY Python_
 021.pandas_datetime_mon, pandas Datetime
 022.Py_SimpleHTTPServer, PyModule For The HTTPServer
 023.Notice_python, Python坑
+024.SqrtCal, 快速平方
 
 ~~Updated 20190212 happy new year!~~
-TODO: the list of pandas
+TODO: -1- The list of pandas;
 Please Wait For Next!!!
 ```
+
