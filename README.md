@@ -27,6 +27,7 @@ _Cute Tools BY Python_
 022.Py_SimpleHTTPServer, PyModule For The HTTPServer
 023.Notice_python, Python坑
 024.SqrtCal, 快速平方
+025.What_is_python3.8.md, Python3.8一览
 
 ~~Updated 20190212 happy new year!~~
 TODO: -1- The list of pandas;
