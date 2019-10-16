@@ -35,4 +35,10 @@ _Cute Tools By Python_
 ~~Please Wait For Next!!!~~
 TODO: 
     -1- THE LIST OF PANDAS;
+    -2- LINKS
+        > http://www.pythondoc.com/
+        > https://pycoders.com/issues
+        
+        ;
+    -3- ;
 ```
