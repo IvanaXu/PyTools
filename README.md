@@ -33,12 +33,18 @@ _Cute Tools By Python_
 
 ~~Updated 20190212 happy new year!~~
 ~~Please Wait For Next!!!~~
+
+~~
 TODO: 
     -1- THE LIST OF PANDAS;
-    -2- LINKS
+    -2- LINKS:
         > http://www.pythondoc.com/
         > https://pycoders.com/issues
-        
+        > http://www.pythonchallenge.com/
         ;
     -3- ;
+~~
 ```
+
+
+
