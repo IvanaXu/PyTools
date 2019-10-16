@@ -33,7 +33,7 @@ _Cute Tools By Python_
 025.What_is_python3.8.md, Python3.8一览
 
 ~~Please Wait For Next!!!~~
-~~Updated 20191016 Happy New Time!~~
+~~Updated Happy U26!!! - 20191016~~
 
 ~~
 TODO: 
