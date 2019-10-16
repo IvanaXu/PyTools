@@ -1,5 +1,6 @@
 # PyTools
 _Cute Tools By Python_
+
 ```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~000.The Zen Of Python, Python之禅~~
@@ -31,8 +32,8 @@ _Cute Tools By Python_
 024.SqrtCal, 快速平方
 025.What_is_python3.8.md, Python3.8一览
 
-~~Updated 20190212 happy new year!~~
 ~~Please Wait For Next!!!~~
+~~Updated 20191016 Happy New Time!~~
 
 ~~
 TODO: 
@@ -45,6 +46,4 @@ TODO:
     -3- ;
 ~~
 ```
-
-
 
