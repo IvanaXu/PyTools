@@ -3,7 +3,7 @@ _Cute Tools By Python_
 
 ```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~000.The Zen Of Python, Python之禅~~
+000.The Zen Of Python, Python之禅
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 001.Test_CleanBigFile, 大文件扫描
@@ -42,6 +42,7 @@ TODO:
         > http://www.pythondoc.com/
         > https://pycoders.com/issues
         > http://www.pythonchallenge.com/
+        > https://www.zhihu.com/question/27386361?rf=328065371
         ;
     -3- ;
 ~~
