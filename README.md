@@ -31,10 +31,10 @@ _Cute Tools By Python_
 023.Notice_python, Python坑
 024.SqrtCal, 快速平方
 025.What_is_python3.8.md, Python3.8一览
+026.Py2Pyc2Pyo, Py转换Pyc/Pyo/So文件
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
-
 ~~
 TODO: 
     -1- THE LIST OF PANDAS;
