@@ -13,6 +13,6 @@ echo --------------------------------STEP 01--------------------------------
 
 gcc -c -fPIC PTest026.c
 gcc -shared PTest026.o -o PTest026.so
-rm -rf PTest026.c PTest026.o
+# rm -rf PTest026.c PTest026.o
 
 echo --------------------------------STEP 02--------------------------------
