@@ -35,6 +35,8 @@ _Cute Tools By Python_
 027.PyDataMemory, Py数据内存
 028.Py2EXE, Py转EXE
 029.Test_gevent_requests.py, gevent/requests
+030.Be_Pythonic, Pythonic
+
 
 
 ~~Please Wait For Next!!!~~
