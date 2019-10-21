@@ -34,6 +34,7 @@ _Cute Tools By Python_
 026.Py2Pyc2Pyo, Py转换Pyc/Pyo/So文件
 027.PyDataMemory, Py数据内存
 028.Py2EXE, Py转EXE
+029.Test_gevent_requests.py, gevent/requests
 
 
 ~~Please Wait For Next!!!~~
