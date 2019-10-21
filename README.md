@@ -33,6 +33,7 @@ _Cute Tools By Python_
 025.What_is_python3.8.md, Python3.8一览
 026.Py2Pyc2Pyo, Py转换Pyc/Pyo/So文件
 027.PyDataMemory, Py数据内存
+028.Py2EXE, Py转EXE
 
 
 ~~Please Wait For Next!!!~~
