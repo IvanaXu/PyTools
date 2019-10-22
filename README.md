@@ -37,6 +37,7 @@ _Cute Tools By Python_
 029.Test_gevent_requests.py, gevent/requests
 030.Be_Pythonic, Pythonic
 031.Test_TimeCal, TimeCal TODO:
+032.Test_Mrjob_MapReduce, Mrjob To MapReduce
 
 
 ~~Please Wait For Next!!!~~
