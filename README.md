@@ -38,7 +38,7 @@ _Cute Tools By Python_
 030.Be_Pythonic, Pythonic
 031.Test_TimeCal, TimeCal TODO:
 032.Test_Mrjob_MapReduce, Mrjob To MapReduce
-
+033.Print_Logging, logging 日志
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
