@@ -1,6 +1,9 @@
+#
+#
+#
+#
 import binascii
 import struct
-
 
 def example(express, result=None):
     if not result:
