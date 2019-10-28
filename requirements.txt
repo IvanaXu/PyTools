@@ -1,1 +1,12 @@
 # requirements.txt
+
+## 026.Py2Pyc2Pyo
+pip install Cython
+
+## 032.Test_Mrjob_MapReduce
+pip install mrjob
+
+## 036.PyCrawler_Spiget
+pip install gevent requests pyquery redis
+
+##
