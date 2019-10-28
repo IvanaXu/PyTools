@@ -1,7 +1,7 @@
 #
 #
 #
-#
+# WHAT ARE YOU DOING? NOT COMMIT LIKE SMOKING.
 import binascii
 import struct
 
