@@ -39,6 +39,9 @@ _Cute Tools By Python_
 031.Test_TimeCal, TimeCal TODO:
 032.Test_Mrjob_MapReduce, Mrjob To MapReduce
 033.Print_Logging, logging 日志
+034.Test_bin_ascii, 编码转换bin&ascii
+035.Pycharm_Instructions, Pycharm使用说明201801 SSH
+
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
