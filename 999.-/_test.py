@@ -2215,7 +2215,15 @@ Alt + Shift + E
 # print(f)
 # f1 = [i for i in a if i > 1]
 # print(f1)
-# #
+
+
+
+
+# TODO: 2222
+
+
+
+
 # import pandas as pd
 # import numpy as np
 #
