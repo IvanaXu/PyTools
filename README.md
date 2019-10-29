@@ -42,19 +42,20 @@ _Cute Tools By Python_
 034.Test_bin_ascii, 编码转换bin&ascii
 035.Pycharm_Instructions, Pycharm使用说明201801 SSH
 036.PyCrawler_Spiget, 爬虫IP、代理
+037.The_list_of_pandas, pandas
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
 ~~
-999.TODO: 
-    -1- THE LIST OF PANDAS;
-    -2- LINKS:
+999.-: 
+    TODO:
+    -1- LINKS:
         > http://www.pythondoc.com/
         > https://pycoders.com/issues
         > http://www.pythonchallenge.com/
         > https://www.zhihu.com/question/27386361?rf=328065371
         > ;
-    -3- ;
+    -2- ;
 ~~
 ```
 
