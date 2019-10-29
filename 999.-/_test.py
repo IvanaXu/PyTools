@@ -1853,6 +1853,7 @@ Alt + Shift + E
 # print(aa)
 # aa.insert(0, 122)
 # print(aa)
+
 # import pandas as pd
 # import numpy as np
 # a = {
@@ -1872,16 +1873,21 @@ Alt + Shift + E
 # #
 # b = [a[i] if a[i] > max_a else max_a for i in a]
 # print(b)
+
+
+
 # import numpy as np
 # import pandas as pd
 # a = pd.DataFrame([[1, 2, 4], [2, 6, 3], [3, 10, 1]], columns=['a', 'b', 'c'])
 # print(a)
 #
 # print(a[['a', 'b']].corr().ix[0, 1])
+
 # a = [1, 2, 3, 4, 5]
 # print(a)
 # a[0] = 2
 # print(a)
+
 # import numpy as np
 # import pandas as pd
 # a1 = [1, 2]
@@ -1951,7 +1957,8 @@ Alt + Shift + E
 #     if d1 in liveday.values():
 #         d3 = 1
 #     print('2017'+d1+','+str(d2)+','+str(d3))
-#
+
+
 # import numpy as np
 # import pandas as pd
 # a1 = [1, 2]
