@@ -43,6 +43,7 @@ _Cute Tools By Python_
 035.Pycharm_Instructions, Pycharm使用说明201801 SSH
 036.PyCrawler_Spiget, 爬虫IP、代理
 037.The_list_of_pandas, pandas
+038.Test_PyClass, Class类
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
