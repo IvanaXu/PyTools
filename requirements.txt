@@ -9,4 +9,5 @@ pip install mrjob
 ## 036.PyCrawler_Spiget
 pip install gevent requests pyquery redis
 
-##
+## 039.Test_qiskit_QuantumCal
+pip install qiskit
