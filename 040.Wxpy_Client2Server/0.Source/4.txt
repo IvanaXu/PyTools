@@ -1,0 +1,14 @@
+﻿ubuntu 15.10
+
+ivan-IdeaPad-Z485
+
+7.3 GiB
+
+AMD A8-4500M APU with Radeon(tm) HD Graphics × 4 
+
+Gallium 0.4 on AMD ARUBA (DRM 2.43.0, LLVM 3.6.2)
+
+32 位
+
+33.4 GB
+Boa Constructor

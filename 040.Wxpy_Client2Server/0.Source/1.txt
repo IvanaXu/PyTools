@@ -1,0 +1,19 @@
+Input:
+2015/11/21 18:24:13 : Welcome
+2015/11/21 18:24:13 : Server started
+2015/11/21 18:25:39 : There are 6 Users
+2015/11/21 18:25:39 : (1L, 'ivan', 'ivan')
+2015/11/21 18:25:39 : (2L, 'van', '687672')
+2015/11/21 18:25:39 : (3L, 'lily', '891632')
+2015/11/21 18:25:39 : (4L, 'peter', '161990')
+2015/11/21 18:25:39 : (5L, 'goeri', '487162')
+2015/11/21 18:25:39 : (6L, 'zoom', '172162')
+
+
+
+2015/11/21 18:26:10 : Listening
+2015/11/21 18:26:10 : DES "Usr:ivan Port:(30b8b19959c8a101) Paw:ivan" Logined
+
+2015/11/21 18:26:18 : DES "Usr:van Port:(0003780189fb7333) Paw:687672" Logined
+
+2015/11/21 18:26:20 : RSA "Usr:zoom Port:(ODEHzAwpDCIwg/rySQK80mFw0A12C8tPeGREpmIN9/mK+dhEwhJMSIKKntVvZCa9TMMy7QkxNIfyvU0a0IIuCYODWQdqMmtGT1XuzxP+Cn+vMXSOAwaWdXIR8Mbu+ADxbWNYgPv/A3K/deAY67vJrgBtpXSBZSJbKOjSWIk2RI4=) Paw:172162" Logined
