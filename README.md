@@ -46,6 +46,8 @@ _Cute Tools By Python_
 038.Test_PyClass, Class类
 039.Test_qiskit_QuantumCal, IBM qiskit 量子计算
 040.WxpythonDemo, Wxpython GUI
+041.Test_Pygame, pygame for game GUI
+
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
