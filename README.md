@@ -45,6 +45,7 @@ _Cute Tools By Python_
 037.The_list_of_pandas, pandas
 038.Test_PyClass, Class类
 039.Test_qiskit_QuantumCal, IBM qiskit 量子计算
+040.WxpythonDemo, Wxpython GUI
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
@@ -60,4 +61,3 @@ _Cute Tools By Python_
     -2- ;
 ~~ı
 ```
-
