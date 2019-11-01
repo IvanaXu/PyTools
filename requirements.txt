@@ -11,3 +11,9 @@ pip install gevent requests pyquery redis
 
 ## 039.Test_qiskit_QuantumCal
 pip install qiskit
+
+## 040.WxpythonDemo
+pip install -U  -f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-16.04 wxpython
+
+## 041.Test_Pygame
+pip install pygame
