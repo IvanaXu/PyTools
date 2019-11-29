@@ -47,6 +47,7 @@ _Cute Tools By Python_
 039.Test_qiskit_QuantumCal, IBM qiskit 量子计算
 040.WxpythonDemo, Wxpython GUI
 041.Test_Pygame, pygame for game GUI
+042.Test_putZ8inpy, 实现 PUT("787",Z8.) > "00000787"
 
 
 ~~Please Wait For Next!!!~~
