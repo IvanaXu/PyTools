@@ -48,6 +48,8 @@ _Cute Tools By Python_
 040.WxpythonDemo, Wxpython GUI
 041.Test_Pygame, pygame for game GUI
 042.Test_putZ8inpy, 实现 PUT("787",Z8.) > "00000787"
+043.Test_Read_npy, npy读取
+044.Easy_in_list, list类
 
 
 ~~Please Wait For Next!!!~~
