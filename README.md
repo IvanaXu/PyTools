@@ -50,6 +50,7 @@ _Cute Tools By Python_
 042.Test_putZ8inpy, 实现 PUT("787",Z8.) > "00000787"
 043.Test_Read_npy, npy读取
 044.Easy_in_list, list类
+045.Test_HDF5, HDF5文件 
 
 
 ~~Please Wait For Next!!!~~
