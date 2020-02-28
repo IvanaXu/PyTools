@@ -51,6 +51,7 @@ _Cute Tools By Python_
 043.Test_Read_npy, npy读取
 044.Easy_in_list, list类
 045.Test_HDF5, HDF5文件 
+046.Test_tqdm, 进度条 Nice
 
 
 ~~Please Wait For Next!!!~~
