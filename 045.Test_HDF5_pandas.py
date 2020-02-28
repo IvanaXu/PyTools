@@ -13,6 +13,7 @@ data = pd.DataFrame(np.random.standard_normal(10000))
 t1 = "045.HDF5_FILE_t1.h5"
 t2 = "045.HDF5_FILE_t2.h5"
 # Notice format='table'
+# https://blog.csdn.net/pz789as/article/details/96881284
 
 with pd.HDFStore(t1, 'w') as f:
     f.put(key='data', value=data, format='table')
