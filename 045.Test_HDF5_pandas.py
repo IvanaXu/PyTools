@@ -32,6 +32,10 @@ time0 = time.time()
 pd.read_hdf(t2, key="data")
 time1 = time.time()
 print(time1-time0)
-
+"""
+T1:219114, T2:104400, 0.4764643062515403
+0.010165929794311523
+0.009585857391357422
+"""
 
 
