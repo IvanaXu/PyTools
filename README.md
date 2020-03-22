@@ -52,6 +52,7 @@ _Cute Tools By Python_
 044.Easy_in_list, list类
 045.Test_HDF5, HDF5文件 
 046.Test_tqdm, 进度条 Nice
+047.Test_ImageAI, 图像内容预测、对象预测
 
 
 ~~Please Wait For Next!!!~~
