@@ -54,6 +54,7 @@ _Cute Tools By Python_
 046.Test_tqdm, 进度条 Nice
 047.Test_ImageAI, 图像内容预测、对象预测
 048.Test_Py_DFROW, pandas DF 取下一行数
+049.TestWget, 简单爬虫
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
