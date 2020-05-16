@@ -17,3 +17,13 @@ pip install -U  -f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubunt
 
 ## 041.Test_Pygame
 pip install pygame
+
+## 049.TestWget
+pip install re
+pip install request
+
+## 050.TestTF_Data_MNIST
+pip install tensorflow
+
+
+
