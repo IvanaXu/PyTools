@@ -3,6 +3,7 @@
 # @time 20120604 --
 # @goal test
 
+
 def log_test01():
     import logging
     import logging.handlers
