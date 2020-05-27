@@ -9,6 +9,7 @@ import pandas as pd
 root_list = ['/data/project/Temp']
 result = []
 
+# IF NOT os.walk, YOU CAN USE THE os.listdir
 print("Start!")
 for root in root_list:
     for i, j, k in os.walk(root):
