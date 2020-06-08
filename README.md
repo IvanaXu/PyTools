@@ -58,6 +58,7 @@ _Cute Tools By Python_
 050.TestTF_Data_MNIST, TensorFlow MNIST数据重新下载
 051.Test_pyfunc, 测试py函数 时间-内存
 052.Test_ROC_AUC, 测试ROC、AUC
+053.Test_DiffMatch, 差异化匹配
 
 
 ~~Please Wait For Next!!!~~
