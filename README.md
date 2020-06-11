@@ -60,6 +60,7 @@ _Cute Tools By Python_
 052.Test_ROC_AUC, 测试ROC、AUC
 053.Test_DiffMatch, 差异化匹配
 054.Test_Feature_selection, 变量挑选
+055.Test_Latitude_longitude, 经纬度距离计算
 
 
 ~~Please Wait For Next!!!~~
