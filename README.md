@@ -59,6 +59,7 @@ _Cute Tools By Python_
 051.Test_pyfunc, 测试py函数 时间-内存
 052.Test_ROC_AUC, 测试ROC、AUC
 053.Test_DiffMatch, 差异化匹配
+054.Test_Feature_selection, 变量挑选
 
 
 ~~Please Wait For Next!!!~~
