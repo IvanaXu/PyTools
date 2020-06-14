@@ -61,6 +61,7 @@ _Cute Tools By Python_
 053.Test_DiffMatch, 差异化匹配
 054.Test_Feature_selection, 变量挑选
 055.Test_Latitude_longitude, 经纬度距离计算
+056.Test_MyQR, 生成二维码
 
 
 ~~Please Wait For Next!!!~~

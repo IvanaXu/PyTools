@@ -25,5 +25,7 @@ pip install request
 ## 050.TestTF_Data_MNIST
 pip install tensorflow
 
+## 056.Test_MyQR
+pip install myqr zxing
 
 
