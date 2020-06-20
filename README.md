@@ -62,6 +62,7 @@ _Cute Tools By Python_
 054.Test_Feature_selection, 变量挑选
 055.Test_Latitude_longitude, 经纬度距离计算
 056.Test_MyQR, 生成二维码
+057.Test_wget, wget下载链接
 
 
 ~~Please Wait For Next!!!~~

@@ -28,4 +28,8 @@ pip install tensorflow
 ## 056.Test_MyQR
 pip install myqr zxing
 
+## 057.Test_wget
+pip install wget
+
+
 
