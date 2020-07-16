@@ -31,5 +31,6 @@ pip install myqr zxing
 ## 057.Test_wget
 pip install wget
 
-
+## 058.Test_wordcloud_in
+pip install wordcloud
 

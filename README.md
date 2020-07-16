@@ -63,7 +63,7 @@ _Cute Tools By Python_
 055.Test_Latitude_longitude, 经纬度距离计算
 056.Test_MyQR, 生成二维码
 057.Test_wget, wget下载链接
-
+058.wordcloud, 词云
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
