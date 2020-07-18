@@ -64,6 +64,8 @@ _Cute Tools By Python_
 056.Test_MyQR, 生成二维码
 057.Test_wget, wget下载链接
 058.wordcloud, 词云
+059.Test_watch_fits, fits天文数据读取
+
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~

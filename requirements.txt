@@ -34,3 +34,6 @@ pip install wget
 ## 058.Test_wordcloud_in
 pip install wordcloud
 
+## 059.Test_watch_fits
+pip install astropy
+
