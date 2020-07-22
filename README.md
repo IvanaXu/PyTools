@@ -65,6 +65,7 @@ _Cute Tools By Python_
 057.Test_wget, wget下载链接
 058.wordcloud, 词云
 059.Test_watch_fits, fits天文数据读取
+060.Test_Plot_waterfall, Plot瀑布图
 
 
 ~~Please Wait For Next!!!~~
