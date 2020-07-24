@@ -37,3 +37,8 @@ pip install wordcloud
 ## 059.Test_watch_fits
 pip install astropy
 
+# 061.Test_selenium_WebAuto
+pip install selenium
+
+
+

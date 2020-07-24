@@ -66,6 +66,7 @@ _Cute Tools By Python_
 058.wordcloud, 词云
 059.Test_watch_fits, fits天文数据读取
 060.Test_Plot_waterfall, Plot瀑布图
+061.Test_selenium_WebAuto, 基于selenium网页自动化
 
 
 ~~Please Wait For Next!!!~~
