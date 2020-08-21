@@ -12,6 +12,15 @@ for _ in [1, 2, 3]:
 # 3
 # 3 _
 
+#
+print("#1 magic")
+[print(f"{_}\n{_} _") for _ in [1, 2, 3] if _ != 2]
+# #1 magic
+# 1
+# 1 _
+# 3
+# 3 _
+
 # 
 print("#2 pass")
 for _ in [1, 2, 3]:
