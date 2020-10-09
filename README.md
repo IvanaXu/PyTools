@@ -71,6 +71,8 @@ _Cute Tools By Python_
 063.Test_pandas_datetime, 时间计算
 064.Test_continue_break_pass, continue\break\pass语法理解
 065.Test_cluster, 聚类
+066.Test_Kalman_filtering, 卡尔曼滤波算法
+
 
 ~~Please Wait For Next!!!~~
 ~~Updated Happy U26!!! - 20191016~~
