@@ -72,22 +72,19 @@ _Cute Tools By Python_
 064.Test_continue_break_pass, continue\break\pass语法理解
 065.Test_cluster, 聚类
 066.Test_Kalman_filtering, 卡尔曼滤波算法
-
-> https://www.yuque.com/ivanaxu/pytools
-
 ~~Please Wait For Next!!!~~
-~~Updated Happy U26!!! - 20191016~~
+
+
 ~~
-999.-: 
-    TODO:
+999.TODO
     -1- LINKS:
         > http://www.pythondoc.com/
         > https://pycoders.com/issues
         > http://www.pythonchallenge.com/
         > https://www.zhihu.com/question/27386361?rf=328065371
-        > ;
-    -2- ;
-    
-    -3- re in python;
+        > 
+    -2- re in python;
 ~~ı
 ```
+
+> https://www.yuque.com/ivanaxu/pytools
