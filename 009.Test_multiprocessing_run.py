@@ -16,10 +16,7 @@ def worker(sign):
 print('Main:', os.getpid())
 plist = []
 for j in range(5):
-    p = multiprocessing.Process(target=worker, args=('process',))
+    p = multiprocessing.Process(target=worker, args=('process', ))
     p.start()
     plist.append(p)
 p.join()
-
-
-

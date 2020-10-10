@@ -16,12 +16,10 @@ for root in root_list:
         for t in k:
             p = i + os.path.sep + t
             print(p)
-            data = pd.DataFrame([[p, os.path.getsize(p)]], columns=['File', 'Size'])
+            data = pd.DataFrame([[p, os.path.getsize(p)]],
+                                columns=['File', 'Size'])
             result.append(data)
 print("Finis!")
 data_all = pd.DataFrame(pd.concat(result))
 data_all.sort_values('Size', inplace=True)
 print(data_all)
-
-
-

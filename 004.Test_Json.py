@@ -12,11 +12,11 @@ info = """callback({"status":"1","info":"OK","infocode":"10000","count":"1","geo
 "level":"门牌号"}]})""".replace('\n', '')
 call_str = 'callback('
 json_str = 'geocodes'
-info_json = json.loads(info[info.find(call_str)+len(call_str):-1])[json_str][0]
+info_json = json.loads(
+    info[info.find(call_str) + len(call_str):-1])[json_str][0]
 for j in info_json:
     info_json[j] = str(info_json[j])
 print(info_json)
-
 
 # 2
 """
@@ -31,7 +31,6 @@ print(j_obj["decisionResult"].keys())
 for i, j in j_obj["decisionResult"].items():
     print(i, j)
 """
-
 
 # 3
 """
@@ -96,6 +95,3 @@ for i, j in j_obj["decisionResult"].items():
     "status": "1"
 }
 """
-
-
-

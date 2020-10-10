@@ -5,7 +5,6 @@
 
 import this
 print(this.i)
-
 """
 Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -27,7 +26,6 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 """
-
 """
 •优美胜于丑陋(Python 以编写优美的代码为目标)
 •明了胜于晦涩(优美的代码应当是明了的，命名规范，风格相似)
@@ -45,4 +43,3 @@ Namespaces are one honking great idea -- let's do more of those!
 •如果你无法向人描述你的方案，那肯定不是一个好方案；反之亦然(方案测评标准)
 •命名空间是一种绝妙的理念，我们应当多加利用(倡导与号召)
 """
-

@@ -32,6 +32,3 @@ s2 = requests.session()
 r = s2.get('http://www.baidu.com', proxies=proxies)
 print(r.text.encode('utf-8'))
 s2.close()
-
-
-

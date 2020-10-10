@@ -11,7 +11,7 @@ to_addr = ('0.0.0.0', 11111)
 
 class Proxy:
     def __init__(self, addr):
-        self.proxy = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+        self.proxy = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.proxy.bind(addr)
         self.proxy.listen(10)
         self.inputs = [self.proxy]
@@ -33,7 +33,7 @@ class Proxy:
 
     def on_join(self):
         client, addr = self.proxy.accept()
-        print(addr,'connect')
+        print(addr, 'connect')
         forward = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         forward.connect(to_addr)
         self.inputs += [client, forward]
@@ -52,6 +52,3 @@ if __name__ == '__main__':
         Proxy(('', 8888)).serve_forever()
     except KeyboardInterrupt:
         sys.exit(1)
-
-
-
