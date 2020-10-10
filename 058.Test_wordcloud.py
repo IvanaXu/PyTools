@@ -134,11 +134,12 @@ coloring = np.array(Image.open("058.Test_wordcloud_in.jpg"))
 
 # simkai.ttf !!! Chinese
 my_wordcloud = WordCloud(
-    background_color="white", max_words=800,
-    mask=coloring, max_font_size=120, random_state=40, scale=2,
-    font_path="058.Test_wordcloud_simkai.ttf"
-).generate(new_worlds)
+    background_color="white",
+    max_words=800,
+    mask=coloring,
+    max_font_size=120,
+    random_state=40,
+    scale=2,
+    font_path="058.Test_wordcloud_simkai.ttf").generate(new_worlds)
 
 my_wordcloud.to_file('058.Test_wordcloud_ot.jpg')
-
-

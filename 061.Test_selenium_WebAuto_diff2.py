@@ -12,18 +12,18 @@ opt.add_experimental_option('excludeSwitches', ['enable-automation'])
 opt.add_experimental_option('useAutomationExtension', False)
 
 # http://npm.taobao.org/mirrors/chromedriver/
-browser = webdriver.Chrome(executable_path="./061.Test_selenium_WebAuto_chromedriver", options=opt)
-browser.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
-  "source": """
+browser = webdriver.Chrome(
+    executable_path="./061.Test_selenium_WebAuto_chromedriver", options=opt)
+browser.execute_cdp_cmd(
+    "Page.addScriptToEvaluateOnNewDocument", {
+        "source":
+        """
     Object.defineProperty(navigator, 'webdriver', {
       get: () => undefined
     })
   """
-})
+    })
 
 browser.get(url)
 
 print(browser.page_source)
-
-
-

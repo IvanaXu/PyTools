@@ -24,6 +24,3 @@ with gzip.open("062.Test_list_pickle_gzip.compkl", "rb") as f:
     print(sum(data))
 # -rw-r--r--  1 ivan  staff   9.4K  8 20 09:39 062.Test_list_pickle_gzip.compkl
 # -rw-r--r--  1 ivan  staff   196K  8 20 09:39 062.Test_list_pickle_gzip.pkl
-
-
-

@@ -26,7 +26,9 @@ def f(x, y, t):
 
     np.savetxt(csv, imgData, delimiter=',')
 
-    print(f"{fh5}:{os.path.getsize(fh5)}, {csv}:{os.path.getsize(csv)}, {os.path.getsize(fh5)/os.path.getsize(csv)}")
+    print(
+        f"{fh5}:{os.path.getsize(fh5)}, {csv}:{os.path.getsize(csv)}, {os.path.getsize(fh5)/os.path.getsize(csv)}"
+    )
 
 
 f(2, 2, "little")
@@ -49,6 +51,3 @@ f(200, 200, "big")
  [0. 0. 0. ... 0. 0. 0.]]
 045.HDF5_FILE_big.h5:322848, 045.HDF5_FILE_big.csv:1000000, 0.322848
 """
-
-
-

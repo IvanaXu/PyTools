@@ -21,7 +21,7 @@ print("#1 magic")
 # 3
 # 3 _
 
-# 
+#
 print("#2 pass")
 for _ in [1, 2, 3]:
     if _ == 2:
