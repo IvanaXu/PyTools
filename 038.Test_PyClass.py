@@ -1,5 +1,3 @@
-
-
 class A:
     def __init__(self):
         print('begin')
@@ -16,7 +14,10 @@ class A:
 
     def a3(self):
         print('a3')
+
+
 a = A()
+
 # begin
 # a1
 # a1
@@ -31,7 +32,10 @@ class B(A):
     def a2(self):
         print('a2')
         print('a2')
+
+
 b = B()
+
 # begin
 # a1
 # a1
@@ -47,7 +51,10 @@ class C(A):
     def a3(self):
         print('a3')
         print('a3')
+
+
 c = C()
+
 # begin
 # a1
 # a1
@@ -59,7 +66,10 @@ c = C()
 class D(B, C):
     def __init__(self):
         super(D, self).__init__()
+
+
 d = D()
+
 # begin
 # a1
 # a1
@@ -84,6 +94,7 @@ class E(A):
         print('a3')
         self.x = 3
 
+
 e = E()
 print(e.x)
 e.a2()
@@ -99,6 +110,3 @@ print(e.x)
 # a2
 # a2
 # 2
-
-
-

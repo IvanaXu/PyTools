@@ -26,6 +26,7 @@ def sleep(i, sleeptime):
     time.sleep(sleeptimes)
     print(i, sleeptimes)
 
+
 time0 = time.time()
 
 for j in range(1):
@@ -34,6 +35,5 @@ for j in range(1):
         sleeptime = random.randint(1, 2)
         spawnlist.append(gevent.spawn(sleep, i, sleeptime))
     gevent.joinall(spawnlist)
-    print('%d Task%d Time = %f' % (i+1, j+1, time.time() - time0))
+    print('%d Task%d Time = %f' % (i + 1, j + 1, time.time() - time0))
 # 9999 Task1 Time = 10.289901
-

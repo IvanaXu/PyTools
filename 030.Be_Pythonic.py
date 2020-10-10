@@ -8,10 +8,9 @@
 | 03.merge
 """
 
-
 # 01.checkin X >> Y
 # 01.checkin X
-dictionary = {"A": 1, "B":2, "C": 3}
+dictionary = {"A": 1, "B": 2, "C": 3}
 keys = dictionary.keys()
 for k in keys:
     if "A" == k:
@@ -19,9 +18,8 @@ for k in keys:
         break
 
 # 01.checkin Y
-dictionary = {"A": 1, "B":2, "C": 3}
+dictionary = {"A": 1, "B": 2, "C": 3}
 print(True if "A" in dictionary else False)
-
 
 # 02.for_look X >> Y
 # 02.for_look X
@@ -33,7 +31,6 @@ for key in d:
 d = {i: i * 2 for i in range(10000)}
 for key, value in d.items():
     print("{0} = {1}".format(key, value))
-
 
 # 03.merge X >> Y
 # 03.merge X
@@ -54,4 +51,3 @@ y = {'b': 3, 'c': 4}
 z = x.copy()
 z.update(y)
 print(z)
-

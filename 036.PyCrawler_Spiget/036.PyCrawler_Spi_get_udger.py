@@ -47,6 +47,8 @@ class Get_UA_List:
             p.lpush(url_UA, i)
         p.execute()
         print('Finished')
+
+
 # A = Get_UA_List()
 # A.save_url()
 
@@ -77,15 +79,15 @@ def func(iurl, ip):
     p.execute()
     print('Finished')
 
+
 urlist_UA = r1.lrange(url_UA, 0, r1.llen(url_UA))
 proxies_ip = list(r1.smembers('proxies_ip_live'))
 j = 0
 
 for i in urlist_UA:
     print(j)
-    ip = proxies_ip[random.randint(0, len(proxies_ip)-1)]
+    ip = proxies_ip[random.randint(0, len(proxies_ip) - 1)]
     func(i, ip)
 
     j += 1
     # break
-

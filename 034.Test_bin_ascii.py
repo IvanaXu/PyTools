@@ -5,6 +5,7 @@
 import binascii
 import struct
 
+
 def example(express, result=None):
     if not result:
         result = eval(express)
@@ -71,7 +72,6 @@ if __name__ == '__main__':
     print('字节串转16进制数组', end=": ")
     example(r"[hex(x) for x in bytes(b'\x01\x0212')]")
 
-
 # 整数之间的进制转换:
 # 10进制转16进制: hex(16)  ==>  0x10
 # 16进制转10进制: int('0x10', 16)  ==>  16
@@ -112,6 +112,3 @@ if __name__ == '__main__':
 # 字节串转16进制表示,夹带ascii: str(bytes(b'\x01\x0212'))[2:-1]  ==>  \x01\x0212
 # 字节串转16进制表示,固定两个字符表示: str(binascii.b2a_hex(b'\x01\x0212'))[2:-1]  ==>  01023132
 # 字节串转16进制数组: [hex(x) for x in bytes(b'\x01\x0212')]  ==>  ['0x1', '0x2', '0x31', '0x32']
-
-
-

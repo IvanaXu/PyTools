@@ -22,11 +22,13 @@ ip_live = 'proxies_ip_live'
 url = 'http://www.66ip.cn/areaindex_19/index.html'
 test_url = 'http://www.baidu.com'
 path = '/ivan/python27/tPatterns/others/User-Agent/'
-logging.basicConfig(level=logging.DEBUG,
-                    format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
-                    datefmt='%a, %d %b %Y %H:%M:%S',
-                    filename=path+'spi_get_proxies.log',
-                    filemode='a+')
+logging.basicConfig(
+    level=logging.DEBUG,
+    format=
+    '%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
+    datefmt='%a, %d %b %Y %H:%M:%S',
+    filename=path + 'spi_get_proxies.log',
+    filemode='a+')
 
 
 class Task_get:
@@ -47,7 +49,8 @@ class Task_get:
             j = temp.eq(i).text()
             try:
                 if i > 3:
-                    proxies_url = 'http://' + j.split(' ')[0] + ':' + j.split(' ')[1]
+                    proxies_url = 'http://' + j.split(' ')[0] + ':' + j.split(
+                        ' ')[1]
                     seqlist.append(proxies_url)
             except Exception as e:
                 logging.error(str(e))
@@ -61,6 +64,8 @@ class Task_get:
             p.sadd(ip_pool, i)
         p.scard(ip_pool)
         return p.execute()[-1]
+
+
 # A = Task_get()
 # A.save_proxies_ip()
 
@@ -94,6 +99,8 @@ class Task_test:
         for i in test_set:
             spawnlist.append(gevent.spawn(self.test_func, i))
         gevent.joinall(spawnlist)
+
+
 # B = Task_test()
 # B.tPatterns()
 
@@ -104,8 +111,7 @@ class Task_run(Task_get, Task_test):
         self.time_get = lambda: {
             'day': datetime.datetime.now().day,
             'hour': datetime.datetime.now().hour,
-            'mins': datetime.datetime.now().minute,
-        }
+            'mins': datetime.datetime.now().minute, }
         self.time0 = self.time_get()
         self.sleep_time = 90
 
@@ -142,6 +148,6 @@ class Task_run(Task_get, Task_test):
         Task_test.__init__(self)
         Task_test.test(self)
 
+
 C = Task_run()
 C.run()
-

@@ -7,15 +7,17 @@ monkey.patch_all()
 import gevent
 import requests
 
+
 def f(url):
     print('GET: %s' % url)
     resp = requests.get(url)
     print(resp)
 
+
 gevent.joinall([
-        gevent.spawn(f, 'https://www.python.org/'),
-        gevent.spawn(f, 'https://www.yahoo.com/'),
-        gevent.spawn(f, 'https://github.com/'),
+    gevent.spawn(f, 'https://www.python.org/'),
+    gevent.spawn(f, 'https://www.yahoo.com/'),
+    gevent.spawn(f, 'https://github.com/'),
 ])
 
 # GET: https://www.python.org/
@@ -24,4 +26,3 @@ gevent.joinall([
 # <Response [200]>
 # <Response [200]>
 # <Response [200]>
-

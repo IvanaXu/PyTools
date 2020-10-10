@@ -4,8 +4,7 @@ import random
 from tqdm import tqdm
 from lxml import etree
 
-
-n_web = lambda x: ["" if xi == 1 else f"{xi}/" for xi in range(1, x+1)]
+n_web = lambda x: ["" if xi == 1 else f"{xi}/" for xi in range(1, x + 1)]
 
 d_web = {
     "服装品牌": n_web(977),
@@ -35,7 +34,7 @@ d_hea = [
     "Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.14",
     "Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-HK) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",
 ]
-l_hea = len(d_hea)-1
+l_hea = len(d_hea) - 1
 
 seq = "@_@"
 s3 = """<pclass="first"><span>"""
@@ -44,7 +43,6 @@ s5 = """target="_blank">"""
 s6 = """<ahref="""
 s7 = """<pclass="last"><i>"""
 n_bad = 0
-
 
 for i, j in tqdm(d_web.items(), desc="All"):
     f = open(f"Web/result_{i}.csv", "w")
@@ -55,11 +53,13 @@ for i, j in tqdm(d_web.items(), desc="All"):
             import requests
             cont = requests.get(
                 f"http://www.chinasspp.com/brand/{i}/{ij}",
-                headers={'User-Agent': d_hea[random.randint(0, l_hea)]}
-            ).content.decode("gbk")
+                headers={
+                    'User-Agent': d_hea[random.randint(0, l_hea)]
+                }).content.decode("gbk")
 
             tree = etree.HTML(cont)
-            i_tree = tree.xpath("""//*[@id="container"]/*[@class="l"]/*[@class="brand"]""")
+            i_tree = tree.xpath(
+                """//*[@id="container"]/*[@class="l"]/*[@class="brand"]""")
             for t1 in i_tree:
                 t2 = etree.tostring(t1, encoding='utf-8').decode()
                 t2 = t2.replace("\n", "").replace(" ", "").replace("&#13;", "")
@@ -68,9 +68,11 @@ for i, j in tqdm(d_web.items(), desc="All"):
                 t2_1 = t2[t2.find(s3) + len(s3):t2.find(s4)] + seq
                 t2 = t2[t2.find(s5) + len(s5):]
 
-                t2_2 = t2[:t2.find(s6)].replace("</a>", seq).replace("</p><p>", seq) + seq
+                t2_2 = t2[:t2.find(s6)].replace("</a>", seq).replace(
+                    "</p><p>", seq) + seq
 
-                t2_3 = t2[t2.find(s7) + len(s7):].replace("</i>", seq).replace("</p></div>", "\n")
+                t2_3 = t2[t2.find(s7) + len(s7):].replace("</i>", seq).replace(
+                    "</p></div>", "\n")
 
                 f.write(f"{t2_1}{t2_2}{t2_3}".replace(" ", ""))
 
@@ -96,6 +98,3 @@ for i, j in tqdm(d_web.items(), desc="All"):
 # C生活服务: 100%|██████████| 3/3 [01:03<00:00, 13.57s/it]
 # C文创品牌: 100%|██████████| 3/3 [00:15<00:00, 10.34s/it]
 # >>> 6, ()
-
-
-
