@@ -32,7 +32,7 @@ class Solution1:
             for i in range(0, n):
                 r1 = []
                 for j in range(0, n):
-                    k = n-j-1
+                    k = n - j - 1
                     r1.append(m[k][i])
                 r.append(r1)
         print(r)
@@ -43,8 +43,6 @@ class Solution2:
         # Life is short
         print(map(list, zip(*m[::-1]))[:])
 
+
 Solution1().rotate(matrix)
 Solution1().rotate(matrix)
-
-
-

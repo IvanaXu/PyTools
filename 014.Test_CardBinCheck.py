@@ -13,6 +13,3 @@ b'{"cardType":"CC","bank":"GCB","key":"1544449879161-9023-11.145.199.41-70658365
 p = sess.get(url.replace("X-X", "1500676767676767"))
 print(p.content)
 b'{"messages":[{"errorCodes":"CARD_BIN_NOT_MATCH","name":"cardNo"}],"validated":false,"stat":"ok","key":"1500676767676767"}'
-
-
-

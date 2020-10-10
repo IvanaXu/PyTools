@@ -49,7 +49,7 @@ from sklearn.metrics import f1_score, precision_recall_fscore_support
 y_true = [1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 4, 4]
 y_pred = [1, 1, 1, 0, 0, 2, 2, 3, 3, 3, 4, 3, 4, 3]
 
-print(f1_score(y_true, y_pred, labels=[1,2,3,4], average='micro'))
+print(f1_score(y_true, y_pred, labels=[1, 2, 3, 4], average='micro'))
 # 0.6153846153846153
 
 p_class, r_class, f_class, support_micro = precision_recall_fscore_support(
@@ -57,8 +57,5 @@ p_class, r_class, f_class, support_micro = precision_recall_fscore_support(
 print(f_class.mean(), f_class)
 # 0.6041666666666666 [0.75       0.66666667 0.5        0.5       ]
 
-print(f1_score(y_true, y_pred, labels=[1,2,3,4], average='macro'))
+print(f1_score(y_true, y_pred, labels=[1, 2, 3, 4], average='macro'))
 # 0.6041666666666666
-
-
-

@@ -6,19 +6,20 @@ import pandas as pd
 import numpy as np
 
 data = pd.DataFrame([
-    ["A","k1",1,2],
-    ["A","k1",1,2],
-    ["A","k2",1,5],
-    ["B","k1",2,6],
-    ["B","k1",3,6],
-    ["C","k3",4,5],
-    ["D","k4",4,4],
-], columns=["l1","l2","l3","l4"])
+    ["A", "k1", 1, 2],
+    ["A", "k1", 1, 2],
+    ["A", "k2", 1, 5],
+    ["B", "k1", 2, 6],
+    ["B", "k1", 3, 6],
+    ["C", "k3", 4, 5],
+    ["D", "k4", 4, 4],
+],
+                    columns=["l1", "l2", "l3", "l4"])
 print("---1---\n", data)
 
 d1 = data.groupby(["l1", "l2"])[["l3", "l4"]].sum()
-d1["l3/l4"] = d1["l3"]/d1["l4"]
-print("---2---\n",d1)
+d1["l3/l4"] = d1["l3"] / d1["l4"]
+print("---2---\n", d1)
 
 d1 = data.groupby(["l1", "l2"])
 print("---3---\n")
@@ -58,27 +59,13 @@ D  k4   4   4  1.000000
 6  D  k4   4   4
 """
 
-
-
-df4 = pd.DataFrame(
-    [
-        ["/",2,3],
-        ["",3,3]
-    ],
-    columns=["A","B","C"]
-)
-df5 = pd.DataFrame(
-    [
-        [1,2,3],
-        [2,3,3]
-    ],
-    columns=["A","B","C"]
-)
+df4 = pd.DataFrame([["/", 2, 3], ["", 3, 3]], columns=["A", "B", "C"])
+df5 = pd.DataFrame([[1, 2, 3], [2, 3, 3]], columns=["A", "B", "C"])
 df4["A"] = df4["A"].apply(lambda x: np.nan if x == "/" else "/")
 df4["At"] = df4["A"].apply(lambda x: 1 if pd.isna(x) else 0)
 
 print("---4---\n")
-print(df4, "\n", df5, "\n", df4[df4["At"]==0])
+print(df4, "\n", df5, "\n", df4[df4["At"] == 0])
 
 try:
     pd.merge(df4, df5, on="A")
@@ -87,14 +74,13 @@ except Exception as e:
 # You are trying to merge on object and int64 columns. If you wish to proceed you should use pd.concat
 
 try:
-    pd.merge(df4[df4["At"]==1], df5, on="A")
+    pd.merge(df4[df4["At"] == 1], df5, on="A")
 except Exception as e:
     print(e)
 # You are trying to merge on object and int64 columns. If you wish to proceed you should use pd.concat
 
 try:
-    pd.merge(df4[df4["At"]==0], df5, on="A")
+    pd.merge(df4[df4["At"] == 0], df5, on="A")
 except Exception as e:
     print(e)
 # You are trying to merge on object and int64 columns. If you wish to proceed you should use pd.concat
-
