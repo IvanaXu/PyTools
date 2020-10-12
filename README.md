@@ -87,6 +87,8 @@ _Cute Tools By Python_
         > https://www.zhihu.com/question/27386361?rf=328065371
         > 
     -2- re in python;
+    -3- py faker;
+    
 ~~ı
 ```
 
