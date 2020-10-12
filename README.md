@@ -74,8 +74,8 @@ _Cute Tools By Python_
 066.Test_Kalman_filtering, 卡尔曼滤波算法
 067.Test_numpy_c_r_m, numpy矩阵c_/r_/扁平化转换
 068.Test_gc, python垃圾回收机制
+069.Test_scipy_sparse, 稀疏矩阵库scipy.sparse
 ~~Please Wait For Next!!!~~
-
 
 ~~
 999.TODO
