@@ -72,6 +72,7 @@ _Cute Tools By Python_
 064.Test_continue_break_pass, continue\break\pass语法理解
 065.Test_cluster, 聚类
 066.Test_Kalman_filtering, 卡尔曼滤波算法
+067.Test_numpy_c_r_m, numpy矩阵c_/r_转换
 ~~Please Wait For Next!!!~~
 
 
