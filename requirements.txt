@@ -43,7 +43,8 @@ pip install selenium
 # 062.Test_list_pickle_gzip
 pip install pickle gzip
 
-
+# 070.YAPF_PEP8.py
+pip install yapf
 
 
 
