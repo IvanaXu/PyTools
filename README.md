@@ -77,6 +77,7 @@ _Cute Tools By Python_
 069.Test_scipy_sparse, 稀疏矩阵库scipy.sparse
 070.YAPF_PEP8, Python代码规范
 071.Test_faker_TestDemo, faker库造测试案例
+072.PythonDevLevel, 阿里云大学-Python测试
 ~~Please Wait For Next!!!~~
 
 ~~
