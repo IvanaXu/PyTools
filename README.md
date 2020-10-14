@@ -76,6 +76,7 @@ _Cute Tools By Python_
 068.Test_gc, python垃圾回收机制
 069.Test_scipy_sparse, 稀疏矩阵库scipy.sparse
 070.YAPF_PEP8, Python代码规范
+071.Test_faker_TestDemo, faker库造测试案例
 ~~Please Wait For Next!!!~~
 
 ~~
@@ -87,8 +88,6 @@ _Cute Tools By Python_
         > https://www.zhihu.com/question/27386361?rf=328065371
         > 
     -2- re in python;
-    -3- py faker;
-    
 ~~ı
 ```
 
