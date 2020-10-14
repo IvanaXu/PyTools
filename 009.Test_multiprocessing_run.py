@@ -20,3 +20,16 @@ for j in range(5):
     p.start()
     plist.append(p)
 p.join()
+"""
+Main: 99228
+process pid: 99229
+process pid: 99230
+process pid: 99231
+process pid: 99232
+process pid: 99233
+1
+1
+1
+1
+1
+"""
