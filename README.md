@@ -78,6 +78,7 @@ _Cute Tools By Python_
 070.YAPF_PEP8, Python代码规范
 071.Test_faker_TestDemo, faker库造测试案例
 072.PythonDevLevel, 阿里云大学-Python测试
+073.TOpencv, CV计算机视觉-00.Opencv入门
 ~~Please Wait For Next!!!~~
 
 ~~
