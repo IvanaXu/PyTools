@@ -1,0 +1,2 @@
+nvcc 074.Test_Pycuda_vector_addition_cpu.cu -o 074.Test_Pycuda_vector_addition_cpu
+./074.Test_Pycuda_vector_addition_cpu

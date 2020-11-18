@@ -1,0 +1,2 @@
+nvcc 074.Test_Pycuda_variable_addition_reference.cu -o 074.Test_Pycuda_variable_addition_reference
+./074.Test_Pycuda_variable_addition_reference
