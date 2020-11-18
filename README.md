@@ -89,7 +89,6 @@ _Cute Tools By Python_
         > https://pycoders.com/issues
         > http://www.pythonchallenge.com/
         > https://www.zhihu.com/question/27386361?rf=328065371
-        > 
     -2- re in python;
 ~~ı
 ```
