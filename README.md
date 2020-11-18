@@ -79,7 +79,7 @@ _Cute Tools By Python_
 071.Test_faker_TestDemo, faker库造测试案例
 072.PythonDevLevel, 阿里云大学-Python测试
 073.TOpencv, CV计算机视觉-00.Opencv入门
-074.Test_Pycuda, GPU统一计算设备架构 CUDA(Compute Unified Device Architecture) in python
+074.Test_Pycuda, GPU统一计算设备架构 CUDA in python
 ~~Please Wait For Next!!!~~
 
 ~~
