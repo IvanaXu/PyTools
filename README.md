@@ -80,6 +80,7 @@ _Cute Tools By Python_
 072.PythonDevLevel, 阿里云大学-Python测试
 073.TOpencv, CV计算机视觉-00.Opencv入门
 074.Test_Pycuda, GPU统一计算设备架构 CUDA in python
+075.Test_pydb2, IBM DB2 使用
 ~~Please Wait For Next!!!~~
 
 ~~
