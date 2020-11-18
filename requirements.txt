@@ -46,5 +46,8 @@ pip install pickle gzip
 # 070.YAPF_PEP8.py
 pip install yapf
 
+# 074.Test_Pycuda
+pip install pycuda
+
 
 
