@@ -52,4 +52,8 @@ pip install pycuda
 # 075.Test_pydb2
 pip install ibm_db, ibm_db_dbi, ibm_db_sa, pandas, sqlalchemy
 
+# 077.Test_BeeWare
+pip install briefcase
+
+
 
