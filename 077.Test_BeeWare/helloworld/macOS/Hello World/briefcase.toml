@@ -1,0 +1,6 @@
+[paths]
+app_path = "Hello World.app/Contents/Resources/app"
+app_packages_path = "Hello World.app/Contents/Resources/app_packages"
+support_path = "Hello World.app/Contents/Resources/Support"
+icon = "Hello World.app/Contents/Resources/helloworld.icns"
+
