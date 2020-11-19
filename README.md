@@ -81,6 +81,7 @@ _Cute Tools By Python_
 073.TOpencv, CV计算机视觉-00.Opencv入门
 074.Test_Pycuda, GPU统一计算设备架构 CUDA in python
 075.Test_pydb2, IBM DB2 使用
+076.PythonMonday, 一页初学python笔记
 ~~Please Wait For Next!!!~~
 
 ~~
