@@ -82,6 +82,7 @@ _Cute Tools By Python_
 074.Test_Pycuda, GPU统一计算设备架构 CUDA in python
 075.Test_pydb2, IBM DB2 使用
 076.PythonMonday, 一页初学python笔记
+077.Test_BeeWare, python跨平台图形界面应用打包工具
 ~~Please Wait For Next!!!~~
 
 ~~
