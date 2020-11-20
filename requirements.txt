@@ -55,5 +55,8 @@ pip install ibm_db, ibm_db_dbi, ibm_db_sa, pandas, sqlalchemy
 # 077.Test_BeeWare
 pip install briefcase
 
+# 078.Test_PlaywrightPy
+pip install playwright
+
 
 

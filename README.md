@@ -83,6 +83,8 @@ _Cute Tools By Python_
 075.Test_pydb2, IBM DB2 使用
 076.PythonMonday, 一页初学python笔记
 077.Test_BeeWare, python跨平台图形界面应用打包工具
+078.Test_PlaywrightPy, 微软浏览器自动化工具Playwright
+079.Test_lru_cache, 缓存装饰器lru_cache
 ~~Please Wait For Next!!!~~
 
 ~~
