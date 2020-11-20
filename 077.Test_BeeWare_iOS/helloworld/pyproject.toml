@@ -1,0 +1,49 @@
+[tool.briefcase]
+project_name = "Hello World"
+bundle = "com.example"
+version = "0.0.1"
+url = "https://example.com/helloworld"
+license = "BSD license"
+author = 'Jane Developer'
+author_email = "jane@example.com"
+
+[tool.briefcase.app.helloworld]
+formal_name = "Hello World"
+description = "My first application"
+icon = "src/helloworld/resources/helloworld"
+sources = ['src/helloworld']
+requires = []
+
+
+[tool.briefcase.app.helloworld.macOS]
+requires = [
+    'toga-cocoa>=0.3.0.dev20',
+]
+
+[tool.briefcase.app.helloworld.linux]
+requires = [
+    'toga-gtk>=0.3.0.dev20',
+]
+system_requires = [
+    'libgirepository1.0-dev',
+    'libcairo2-dev',
+    'libpango1.0-dev',
+    'libwebkitgtk-3.0-0',
+    'gir1.2-webkit-3.0',
+]
+
+[tool.briefcase.app.helloworld.windows]
+requires = [
+    'toga-winforms>=0.3.0.dev20',
+]
+
+# Mobile deployments
+[tool.briefcase.app.helloworld.iOS]
+requires = [
+    'toga-iOS>=0.3.0.dev20',
+]
+
+[tool.briefcase.app.helloworld.android]
+requires = [
+    'toga-android>=0.3.0.dev20',
+]

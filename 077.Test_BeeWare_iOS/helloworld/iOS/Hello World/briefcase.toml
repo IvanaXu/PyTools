@@ -1,0 +1,22 @@
+[paths]
+app_path = "helloworld/app"
+app_packages_path = "helloworld/app_packages"
+support_path = "Support"
+
+icon.20 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-20.png"
+icon.29 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-29.png"
+icon.40 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-40.png"
+icon.58 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-58.png"
+icon.60 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-60.png"
+icon.76 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-76.png"
+icon.80 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-80.png"
+icon.87 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-87.png"
+icon.120 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-120.png"
+icon.152 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-152.png"
+icon.167 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-167.png"
+icon.180 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-180.png"
+icon.1024 = "helloworld/Images.xcassets/AppIcon.appiconset/icon-1024.png"
+
+splash.1024 = "helloworld/Images.xcassets/Splash.imageset/splash-1024.png"
+splash.2048 = "helloworld/Images.xcassets/Splash.imageset/splash-2048.png"
+splash.3072 = "helloworld/Images.xcassets/Splash.imageset/splash-3072.png"
