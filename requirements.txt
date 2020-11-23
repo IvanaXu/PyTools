@@ -58,5 +58,7 @@ pip install briefcase
 # 078.Test_PlaywrightPy
 pip install playwright
 
+# 080.MLTools
+pip install sklearn pandas numpy matplotlib gevent
 
 
