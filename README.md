@@ -88,6 +88,7 @@ _Cute Tools By Python_
 080.MLTools, Auto MLTools笔者机器学习工具
 081.Test_eval, eval的安全攻防
 082.Test_guietta, A tool for making simple Python GUIs
+083.Test_EasyDB, 一次性云端数据库EasyDB
 ~~Please Wait For Next!!!~~
 
 ~~

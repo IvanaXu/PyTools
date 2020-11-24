@@ -65,4 +65,7 @@ pip install sklearn pandas numpy matplotlib gevent
 pip install guietta --no-deps
 pip install pyqt5
 
-#
+# 083.Test_EasyDB
+pip install easydbio
+
+
