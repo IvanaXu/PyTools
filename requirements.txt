@@ -61,4 +61,8 @@ pip install playwright
 # 080.MLTools
 pip install sklearn pandas numpy matplotlib gevent
 
+# 082.Test_guietta
+pip install guietta --no-deps
+pip install pyqt5
 
+#

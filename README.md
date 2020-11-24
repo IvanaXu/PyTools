@@ -87,6 +87,7 @@ _Cute Tools By Python_
 079.Test_lru_cache, 缓存装饰器lru_cache
 080.MLTools, Auto MLTools笔者机器学习工具
 081.Test_eval, eval的安全攻防
+082.Test_guietta, A tool for making simple Python GUIs
 ~~Please Wait For Next!!!~~
 
 ~~
