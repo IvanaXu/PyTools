@@ -86,6 +86,7 @@ _Cute Tools By Python_
 078.Test_PlaywrightPy, 微软浏览器自动化工具Playwright
 079.Test_lru_cache, 缓存装饰器lru_cache
 080.MLTools, Auto MLTools笔者机器学习工具
+081.Test_eval, eval的安全攻防
 ~~Please Wait For Next!!!~~
 
 ~~
