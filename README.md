@@ -89,6 +89,7 @@ _Cute Tools By Python_
 081.Test_eval, eval的安全攻防
 082.Test_guietta, A tool for making simple Python GUIs
 083.Test_EasyDB, 一次性云端数据库EasyDB
+084.Test_pyjson_pj, 简易json解析
 ~~Please Wait For Next!!!~~
 
 ~~
