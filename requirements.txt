@@ -68,4 +68,7 @@ pip install pyqt5
 # 083.Test_EasyDB
 pip install easydbio
 
+# 086.Test_termgraph
+pip install termgraph
+
 
