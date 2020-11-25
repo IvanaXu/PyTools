@@ -92,6 +92,7 @@ _Cute Tools By Python_
 084.Test_pyjson_pj, 简易json解析
 085.Test_Glances, python系统监视工具
 086.Test_termgraph, 命令行柱状图
+087.Test_pygmy, python短网址服务
 ~~Please Wait For Next!!!~~
 
 ~~
