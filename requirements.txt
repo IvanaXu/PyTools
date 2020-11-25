@@ -74,4 +74,6 @@ pip install termgraph
 # 088.Test_snowy
 pip install snowy
 
-#
+# 089.Test_numba
+pip install numba
+

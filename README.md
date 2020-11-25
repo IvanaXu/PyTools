@@ -94,6 +94,7 @@ _Cute Tools By Python_
 086.Test_termgraph, 命令行柱状图
 087.Test_pygmy, python短网址服务
 088.Test_snowy, 小型python图片库
+089.Test_numba, 一行代码加速loop
 ~~Please Wait For Next!!!~~
 
 ~~
@@ -112,4 +113,7 @@ _Cute Tools By Python_
 > 
 > https://www.yuque.com/ivanaxu/pytools
 >
+
+
+
 
