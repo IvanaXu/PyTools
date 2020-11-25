@@ -71,4 +71,7 @@ pip install easydbio
 # 086.Test_termgraph
 pip install termgraph
 
+# 088.Test_snowy
+pip install snowy
 
+#
