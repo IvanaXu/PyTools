@@ -77,3 +77,8 @@ pip install snowy
 # 089.Test_numba
 pip install numba
 
+# 090.Test_gping
+pip install pinggraph
+
+
+
