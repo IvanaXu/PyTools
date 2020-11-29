@@ -95,7 +95,7 @@ _Cute Tools By Python_
 087.Test_pygmy, python短网址服务
 088.Test_snowy, 小型python图片库
 089.Test_numba, 一行代码加速loop
-090.Test_gping, ping图形界面-python
+090.Test_gping, ping图形界面-python[源码解析]
 ~~Please Wait For Next!!!~~
 
 ~~
