@@ -80,5 +80,8 @@ pip install numba
 # 090.Test_gping
 pip install pinggraph
 
+# 091.Test_xonsh
+pip install xonsh
+
 
 

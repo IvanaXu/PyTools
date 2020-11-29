@@ -96,6 +96,7 @@ _Cute Tools By Python_
 088.Test_snowy, 小型python图片库
 089.Test_numba, 一行代码加速loop
 090.Test_gping, ping图形界面-python[源码解析]
+091.Test_xonsh, python&shell
 ~~Please Wait For Next!!!~~
 
 ~~
