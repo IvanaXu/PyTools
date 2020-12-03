@@ -97,6 +97,7 @@ _Cute Tools By Python_
 089.Test_numba, 一行代码加速loop
 090.Test_gping, ping图形界面-python[源码解析]
 091.Test_xonsh, python&shell
+092.Test_pgmpy_bayesian-networks, 贝叶斯网络
 ~~Please Wait For Next!!!~~
 
 ~~

@@ -83,5 +83,7 @@ pip install pinggraph
 # 091.Test_xonsh
 pip install xonsh
 
+# 092.Test_pgmpy_bayesian-networks
+pip install pgmpy
 
 
