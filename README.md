@@ -1,6 +1,8 @@
 # PyTools
 _Cute Tools By Python_
 
+> https://www.yuque.com/ivanaxu/pytools
+
 ```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 000.The Zen Of Python, Python之禅
@@ -110,12 +112,6 @@ _Cute Tools By Python_
     -2- re in python;
 ~~ı
 ```
-
-> 
-> https://github.com/IvanaXu/PyTools
-> 
-> https://www.yuque.com/ivanaxu/pytools
->
 
 
 
