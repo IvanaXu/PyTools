@@ -86,4 +86,8 @@ pip install xonsh
 # 092.Test_pgmpy_bayesian-networks
 pip install pgmpy
 
+# 093.Test_dlib_Byuser_DSW
+pip install dlib
+
+
 

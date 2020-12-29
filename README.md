@@ -100,6 +100,7 @@ _Cute Tools By Python_
 090.Test_gping, ping图形界面-python[源码解析]
 091.Test_xonsh, python&shell
 092.Test_pgmpy_bayesian-networks, 贝叶斯网络
+093.Test_dlib_Byuser_DSW, 人脸识别dlib库安装及使用
 ~~Please Wait For Next!!!~~
 
 ~~
