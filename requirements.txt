@@ -89,5 +89,8 @@ pip install pgmpy
 # 093.Test_dlib_Byuser_DSW
 pip install dlib
 
+# 094.Test_PySimpleGUI
+pip install PySimpleGUI
+
 
 
