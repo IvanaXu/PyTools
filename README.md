@@ -104,6 +104,7 @@ _Cute Tools By Python_
 094.Test_PySimpleGUI, 简易PythonGUI
 095.Test_sklearn_datasets, sklearn数据集
 096.7PyImproveHabits, 改善Python程序性能的7种习惯
+097.Test_pypdf_camelot, 非扫描PDF提取表格
 ~~Please Wait For Next!!!~~
 
 ~~

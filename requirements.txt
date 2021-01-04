@@ -92,5 +92,8 @@ pip install dlib
 # 094.Test_PySimpleGUI
 pip install PySimpleGUI
 
+# 097.Test_pypdf_camelot
+pip install camelot-py[cv]
+
 
 
