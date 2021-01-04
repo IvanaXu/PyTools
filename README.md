@@ -103,6 +103,7 @@ _Cute Tools By Python_
 093.Test_dlib_Byuser_DSW, 人脸识别dlib库安装及使用
 094.Test_PySimpleGUI, 简易PythonGUI
 095.Test_sklearn_datasets, SK数据集
+096.7PyImproveHabits, 改善Python程序性能的7种习惯
 ~~Please Wait For Next!!!~~
 
 ~~
