@@ -102,6 +102,7 @@ _Cute Tools By Python_
 092.Test_pgmpy_bayesian-networks, 贝叶斯网络
 093.Test_dlib_Byuser_DSW, 人脸识别dlib库安装及使用
 094.Test_PySimpleGUI, 简易PythonGUI
+095.Test_sklearn_datasets, SK数据集
 ~~Please Wait For Next!!!~~
 
 ~~
