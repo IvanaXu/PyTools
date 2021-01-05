@@ -106,6 +106,7 @@ _Cute Tools By Python_
 096.7PyImproveHabits, 改善Python程序性能的7种习惯
 097.Test_pypdf_camelot, 非扫描PDF提取表格
 098.Test_Pydub, Python音频编辑
+099.Test_uncompyle6, Pyc反编译
 ~~Please Wait For Next!!!~~
 
 ~~
