@@ -95,5 +95,8 @@ pip install PySimpleGUI
 # 097.Test_pypdf_camelot
 pip install camelot-py[cv]
 
+# 098.Test_Pydub
+pip install pydub
+
 
 

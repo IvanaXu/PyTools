@@ -105,6 +105,7 @@ _Cute Tools By Python_
 095.Test_sklearn_datasets, sklearn数据集
 096.7PyImproveHabits, 改善Python程序性能的7种习惯
 097.Test_pypdf_camelot, 非扫描PDF提取表格
+098.Test_Pydub, Python音频编辑
 ~~Please Wait For Next!!!~~
 
 ~~
