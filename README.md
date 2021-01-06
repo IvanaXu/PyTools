@@ -107,6 +107,7 @@ _Cute Tools By Python_
 097.Test_pypdf_camelot, 非扫描PDF提取表格
 098.Test_Pydub, Python音频编辑
 099.Test_uncompyle6, Pyc反编译
+100.Test_STPyV8_JavaScript_inpy, Python运行JavaScript
 ~~Please Wait For Next!!!~~
 
 ~~
