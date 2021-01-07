@@ -108,6 +108,7 @@ _Cute Tools By Python_
 098.Test_Pydub, Python音频编辑
 099.Test_uncompyle6, Pyc反编译
 100.Test_STPyV8_JavaScript_inpy, Python运行JavaScript
+101.Test_pyprotect, Python代码加密
 ~~Please Wait For Next!!!~~
 
 ~~
