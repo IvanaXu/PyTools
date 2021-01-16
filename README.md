@@ -110,6 +110,7 @@ _Cute Tools By Python_
 100.Test_STPyV8_JavaScript_inpy, Python运行JavaScript
 101.Test_pyprotect, Python代码加密
 102.Test_tauthon_py2topy3, 非官方py2topy3移植tauthon
+103.LearnPython-Python龙珠计划
 ~~Please Wait For Next!!!~~
 
 ~~
