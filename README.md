@@ -122,6 +122,10 @@ _Cute Tools By Python_
         > https://www.zhihu.com/question/27386361?rf=328065371
     -2- re in python;
     -3- https://github.com/aliyun/aliyun-openapi-python-sdk
+    -4- https://github.com/SeanLee97/xmnlp
+    -5- https://github.com/mozillazg/python-pinyin
+    -6- https://github.com/leon-thomm/Ryven
+    -7- https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
 ~~ı
 ```
 
