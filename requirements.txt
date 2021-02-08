@@ -98,5 +98,8 @@ pip install camelot-py[cv]
 # 098.Test_Pydub
 pip install pydub
 
+# 104.Test_Pinyin_python
+pip install pypinyin
+
 
 

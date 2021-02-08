@@ -111,6 +111,7 @@ _Cute Tools By Python_
 101.Test_pyprotect, Python代码加密
 102.Test_tauthon_py2topy3, 非官方py2topy3移植tauthon
 103.PythonTianchiLevel, 天池-Python训练
+104.Test_Pinyin_python, Python文字转拼音
 ~~Please Wait For Next!!!~~
 
 ~~
@@ -123,7 +124,7 @@ _Cute Tools By Python_
     -2- re in python;
     -3- https://github.com/aliyun/aliyun-openapi-python-sdk
     -4- https://github.com/SeanLee97/xmnlp
-    -5- https://github.com/mozillazg/python-pinyin
+    -5- /
     -6- https://github.com/leon-thomm/Ryven
     -7- https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
     -8- https://mp.weixin.qq.com/s/x5UqrA760LseDN_-LxBRyg
