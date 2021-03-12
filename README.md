@@ -130,6 +130,7 @@ _Cute Tools By Python_
     -7- https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
     -8- https://mp.weixin.qq.com/s/x5UqrA760LseDN_-LxBRyg
     -9- https://mp.weixin.qq.com/s/bOMH6IoWXE1nyMnfV1siTQ
+    -A- https://learnbyexample.github.io/100_page_python_intro/cover.html
 ~~ı
 ```
 
