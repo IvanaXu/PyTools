@@ -104,5 +104,6 @@ pip install pypinyin
 # 105.Test_LevenshteinDistance
 pip install python_Levenshtein
 
-
+# 106.Test_cutecharts
+pip install cutecharts
 
