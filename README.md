@@ -116,6 +116,7 @@ _Cute Tools By Python_
 106.Test_cutecharts, py手绘图表
 107.JanusGraph_Gremlin_Python, JanusGraph的Py图查询
 108.TestPy_MSWindows, MS Windows特定服务
+109.Test_Sqlite3, Sqlite3应用
 ~~Please Wait For Next!!!~~
 
 ~~
