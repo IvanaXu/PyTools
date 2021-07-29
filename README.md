@@ -118,6 +118,7 @@ _Cute Tools By Python_
 108.TestPy_MSWindows, MS Windows特定服务
 109.Test_Sqlite3, Sqlite3应用
 110.What_is_python3.9.md, Python3.9一览
+111.Test_PrettyErrors, Py Errors美化
 ~~Please Wait For Next!!!~~
 
 ~~

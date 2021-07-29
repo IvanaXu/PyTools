@@ -109,3 +109,6 @@ pip install cutecharts
 
 # 107.JanusGraph_Gremlin_Python
 pip install gremlinpython==3.4.6
+
+# 111.Test_PrettyErrors
+pip install pretty_errors
