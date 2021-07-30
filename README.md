@@ -121,6 +121,7 @@ _Cute Tools By Python_
 111.Test_PrettyErrors, Py Errors美化
 112.Test_IPAddresses, IP地址Object
 113.Test_DecisionTreeClassifier_var_update, py决策树更新
+114.Test_PyArmadillo, 基于Armadillo矩阵库的PyArmadillo
 ~~Please Wait For Next!!!~~
 
 ~~
@@ -137,7 +138,7 @@ _Cute Tools By Python_
     -6- https://github.com/leon-thomm/Ryven
     -7- https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
     -8- /
-    -9- https://mp.weixin.qq.com/s/bOMH6IoWXE1nyMnfV1siTQ
+    -9- /
     -A- https://learnbyexample.github.io/100_page_python_intro/cover.html
         https://github.com/kkroening/ffmpeg-python
     -B- https://github.com/arrow-py/arrow
