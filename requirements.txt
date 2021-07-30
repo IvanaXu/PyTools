@@ -112,3 +112,7 @@ pip install gremlinpython==3.4.6
 
 # 111.Test_PrettyErrors
 pip install pretty_errors
+
+# 113.Test_DecisionTreeClassifier_var_update
+# pip install pydotplus
+# pip install graphviz
