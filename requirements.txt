@@ -116,3 +116,6 @@ pip install pretty_errors
 # 113.Test_DecisionTreeClassifier_var_update
 # pip install pydotplus
 # pip install graphviz
+
+# 114.Test_PyArmadillo
+pip install pyarma
