@@ -119,3 +119,6 @@ pip install pretty_errors
 
 # 114.Test_PyArmadillo
 pip install pyarma
+
+# 115.Test_Arrow_Pydatetime
+pip install arrow
