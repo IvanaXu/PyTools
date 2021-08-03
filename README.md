@@ -122,27 +122,29 @@ _Cute Tools By Python_
 112.Test_IPAddresses, IP地址Object
 113.Test_DecisionTreeClassifier_var_update, py决策树更新
 114.Test_PyArmadillo, 基于Armadillo矩阵库的PyArmadillo
-~~Please Wait For Next!!!~~
+```
 
-~~
-    999.TODO
-    -1- LINKS:
-        > http://www.pythondoc.com/
-        > https://pycoders.com/issues
-        > http://www.pythonchallenge.com/
-        > https://www.zhihu.com/question/27386361?rf=328065371
-    -2- re in python;
-    -3- https://github.com/aliyun/aliyun-openapi-python-sdk
-    -4- https://github.com/SeanLee97/xmnlp
-    -5- /
-    -6- https://github.com/leon-thomm/Ryven
-    -7- https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
-    -8- /
-    -9- /
-    -A- https://learnbyexample.github.io/100_page_python_intro/cover.html
-        https://github.com/kkroening/ffmpeg-python
-    -B- https://github.com/arrow-py/arrow
-        https://github.com/GorvGoyl/Clone-Wars
-	https://docs.python.org/3/library/ipaddress.html
-	https://github.com/ManimCommunity/manim/
+**Please Wait For Next...**
+
+```
+999.TODO
+-1- LINKS:
+    > http://www.pythondoc.com/
+    > https://pycoders.com/issues
+    > http://www.pythonchallenge.com/
+    > https://www.zhihu.com/question/27386361?rf=328065371
+-2- re in python;
+-3- https://github.com/aliyun/aliyun-openapi-python-sdk
+-4- https://github.com/SeanLee97/xmnlp
+-5- /
+-6- https://github.com/leon-thomm/Ryven
+-7- https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
+-8- /
+-9- /
+-A- https://learnbyexample.github.io/100_page_python_intro/cover.html
+    https://github.com/kkroening/ffmpeg-python
+-B- https://github.com/arrow-py/arrow
+    https://github.com/GorvGoyl/Clone-Wars
+    https://docs.python.org/3/library/ipaddress.html
+    https://github.com/ManimCommunity/manim/
 ```
