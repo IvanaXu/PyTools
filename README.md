@@ -144,8 +144,7 @@ _Cute Tools By Python_
 -9- /
 -A- https://learnbyexample.github.io/100_page_python_intro/cover.html
     https://github.com/kkroening/ffmpeg-python
--B- https://github.com/arrow-py/arrow
-    https://github.com/GorvGoyl/Clone-Wars
+-B- https://github.com/GorvGoyl/Clone-Wars
     https://docs.python.org/3/library/ipaddress.html
     https://github.com/ManimCommunity/manim/
 ```
