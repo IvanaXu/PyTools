@@ -145,6 +145,4 @@ _Cute Tools By Python_
         https://github.com/GorvGoyl/Clone-Wars
 	https://docs.python.org/3/library/ipaddress.html
 	https://github.com/ManimCommunity/manim/
-
-~~ı
 ```
