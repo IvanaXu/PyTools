@@ -137,14 +137,10 @@ _Cute Tools By Python_
 -2- re in python;
 -3- https://github.com/aliyun/aliyun-openapi-python-sdk
 -4- https://github.com/SeanLee97/xmnlp
--5- /
--6- https://github.com/leon-thomm/Ryven
 -7- https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
 -8- /
 -9- /
 -A- https://learnbyexample.github.io/100_page_python_intro/cover.html
     https://github.com/kkroening/ffmpeg-python
--B- https://github.com/GorvGoyl/Clone-Wars
-    https://docs.python.org/3/library/ipaddress.html
-    https://github.com/ManimCommunity/manim/
+-B- https://github.com/ManimCommunity/manim/
 ```
