@@ -134,4 +134,5 @@ _Cute Tools By Python_
     https://github.com/SeanLee97/xmnlp
     https://github.com/kkroening/ffmpeg-python
     https://github.com/ManimCommunity/manim/
+    https://zhuanlan.zhihu.com/p/355345183
 ```
