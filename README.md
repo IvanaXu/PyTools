@@ -135,4 +135,5 @@ _Cute Tools By Python_
     https://github.com/kkroening/ffmpeg-python
     https://github.com/ManimCommunity/manim/
     https://zhuanlan.zhihu.com/p/355345183
+    https://github.com/rapidsai/cudf
 ```
