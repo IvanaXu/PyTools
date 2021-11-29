@@ -124,6 +124,7 @@ _Cute Tools By Python_
 114.Test_PyArmadillo, 基于Armadillo矩阵库的PyArmadillo
 115.Test_Arrow_Pydatetime, Datatime/Arrow Python时间
 116.Test_MapReduce, MapReduce试用
+117.Termcolor, 文本颜色库
 ```
 
 **Please Wait For Next...**

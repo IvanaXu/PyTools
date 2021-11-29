@@ -123,3 +123,5 @@ pip install pyarma
 # 115.Test_Arrow_Pydatetime
 pip install arrow
 
+# 117.Termcolor
+pip install termcolor
