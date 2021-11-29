@@ -123,6 +123,7 @@ _Cute Tools By Python_
 113.Test_DecisionTreeClassifier_var_update, py决策树更新
 114.Test_PyArmadillo, 基于Armadillo矩阵库的PyArmadillo
 115.Test_Arrow_Pydatetime, Datatime/Arrow Python时间
+116.Test_MapReduce, MapReduce试用
 ```
 
 **Please Wait For Next...**
