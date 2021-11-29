@@ -2,10 +2,10 @@ import random
 from termcolor import cprint
 """
 Available text colors:
-	    red, green, yellow, blue, magenta, cyan, white.
+  red, green, yellow, blue, magenta, cyan, white.
 
 Available text highlights:
-	    on_red, on_green, on_yellow, on_blue, on_magenta, on_cyan, on_white.
+  on_red, on_green, on_yellow, on_blue, on_magenta, on_cyan, on_white.
 """
 
 for i in range(10):
