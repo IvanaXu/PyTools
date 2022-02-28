@@ -29,3 +29,5 @@ print('\nConstraints')
 print('Demand  = ', model.demand())
 print('Labor A = ', model.laborA())
 print('Labor B = ', model.laborB())
+
+
