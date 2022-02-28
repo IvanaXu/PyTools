@@ -125,3 +125,6 @@ pip install arrow
 
 # 117.Termcolor
 pip install termcolor
+
+# 118.Test_Pyomo
+pip install pyomo

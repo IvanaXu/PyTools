@@ -125,6 +125,7 @@ _Cute Tools By Python_
 115.Test_Arrow_Pydatetime, Datatime/Arrow Python时间
 116.Test_MapReduce, MapReduce试用
 117.Termcolor, 文本颜色库
+118.Test_Pyomo, python运筹优化
 ```
 
 **Please Wait For Next...**
@@ -138,3 +139,4 @@ _Cute Tools By Python_
     https://zhuanlan.zhihu.com/p/355345183
     https://github.com/rapidsai/cudf
 ```
+
