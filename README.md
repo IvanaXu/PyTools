@@ -131,7 +131,6 @@ _Cute Tools By Python_
 **Please Wait For Next...**
 
 ```
-    re in python;
     https://github.com/aliyun/aliyun-openapi-python-sdk
     https://github.com/SeanLee97/xmnlp
     https://github.com/kkroening/ffmpeg-python
@@ -139,4 +138,3 @@ _Cute Tools By Python_
     https://zhuanlan.zhihu.com/p/355345183
     https://github.com/rapidsai/cudf
 ```
-
