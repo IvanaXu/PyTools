@@ -128,7 +128,7 @@ _Cute Tools By Python_
 118.Test_Pyomo, python运筹优化
 ```
 
-**Please Wait For Next...**
+**Coming Soon**
 
 ```
     https://github.com/aliyun/aliyun-openapi-python-sdk
