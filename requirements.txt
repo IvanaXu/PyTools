@@ -128,3 +128,6 @@ pip install termcolor
 
 # 118.Test_Pyomo
 pip install pyomo
+
+# 119.Test_Modin
+pip install modin[dask]
