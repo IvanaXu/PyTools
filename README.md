@@ -126,6 +126,7 @@ _Cute Tools By Python_
 116.Test_MapReduce, MapReduce试用
 117.Termcolor, 文本颜色库
 118.Test_Pyomo, python运筹优化
+119.Test_Modin, Modin加速
 ```
 
 **Coming Soon**
@@ -135,6 +136,5 @@ _Cute Tools By Python_
     https://github.com/SeanLee97/xmnlp
     https://github.com/kkroening/ffmpeg-python
     https://github.com/ManimCommunity/manim/
-    https://zhuanlan.zhihu.com/p/355345183
     https://github.com/rapidsai/cudf
 ```
