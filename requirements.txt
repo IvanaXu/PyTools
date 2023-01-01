@@ -131,3 +131,6 @@ pip install pyomo
 
 # 119.Test_Modin
 pip install modin[dask]
+
+# 120.TestManim
+pip install manim
