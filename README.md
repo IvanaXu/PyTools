@@ -127,7 +127,7 @@ _Cute Tools By Python_
 117.Termcolor, 文本颜色库
 118.Test_Pyomo, python运筹优化
 119.Test_Modin, Modin加速
-120.TestManim，解释性数学视频动画引擎
+120.TestManim, 解释性数学视频动画引擎
 121.What_is_python3.10, Python3.10一览
 ```
 
