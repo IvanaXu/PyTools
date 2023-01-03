@@ -129,6 +129,7 @@ _Cute Tools By Python_
 119.Test_Modin, Modin加速
 120.TestManim, 解释性数学视频动画引擎
 121.What_is_python3.10, Python3.10一览
+122.Pymol, python molecularf分子
 ```
 
 **Coming Soon**
@@ -138,5 +139,4 @@ _Cute Tools By Python_
     https://github.com/SeanLee97/xmnlp
     https://github.com/kkroening/ffmpeg-python
     https://github.com/rapidsai/cudf
-    https://pymol.org/2/
 ```
