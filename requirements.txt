@@ -137,3 +137,6 @@ pip install manim
 
 # 123.Test_pyperformance_pythonV
 pip install pyperformance
+
+# 124.Test_Mistune
+$ pip install mistune
