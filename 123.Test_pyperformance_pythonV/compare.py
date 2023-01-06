@@ -9,7 +9,7 @@ for t in ["3.9.0", "3.10.0", "3.11.0", "3.11.1"]:
             i = i.strip("\n")
             
             if "###" in i:
-                t1 = i
+                t1 = i.replace("###", "").replace(" ", "")
             if "Mean" in i:
                 t2 = i.replace("Mean +- std dev: ", "")
                 tdata[t1] = t2
