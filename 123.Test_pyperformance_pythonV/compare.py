@@ -52,7 +52,7 @@ def fchange(string):
     return round(result, 4)
 
 def change(df):
-    _df = df.copy()
+    _df = df[df["Task"] != "pprint_safe_repr"].copy()
     for icol in TASK:
         _df[icol] = _df[icol].apply(fchange)
     return _df
@@ -68,7 +68,7 @@ with open("compare.md", "w") as f:
         f.write(i)
     f.write("\n\n")
 
-    f.write("### 1.Change\n")
+    f.write("### 1.Change(UNIT:ms)\n")
     for i in cdata.fillna("/").to_markdown():
         f.write(i)
     f.write("\n\n")
