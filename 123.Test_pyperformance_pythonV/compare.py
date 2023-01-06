@@ -1,7 +1,11 @@
+import os
 import pandas as pd
 
 data = []
-for t in ["3.9.0", "3.10.0", "3.11.0", "3.11.1"]:
+for t in sorted(
+    [i for i in os.listdir() if "3." in i],
+    key=lambda x: float(x.replace("3.", ""))
+):
 
     t1, t2, tdata = "", "", {}
     with open(f"{t}/py{t}.log") as f:
