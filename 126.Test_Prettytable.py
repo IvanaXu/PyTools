@@ -3,7 +3,7 @@ from prettytable import PrettyTable
 table = PrettyTable()
 
 ran = lambda: round(random.random(), 4)
-table.field_names = ["Month","Earning"]
+table.field_names = ["Month", "Earning"]
 table.add_rows(
     [        
         ["JAN.", ran()],
