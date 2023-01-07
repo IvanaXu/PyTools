@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d0efbf0-8329-4b56-b4ab-a92fa9c833be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/123.Test_pyperformance_pythonV/compare.md" beforeDir="false" afterPath="$PROJECT_DIR$/123.Test_pyperformance_pythonV/compare.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.Test_pyperformance_pythonV/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.Test_pyperformance_pythonV/compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +51,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ivan/Library/CloudStorage/OneDrive-个人/GitHub/PyTools/123.Test_pyperformance_pythonV&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ivan/Library/CloudStorage/OneDrive-个人/GitHub/PyTools"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings is-module-sdk="true">
@@ -66,8 +67,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/123.Test_pyperformance_pythonV" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/123.Test_pyperformance_pythonV" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/123.Test_pyperformance_pythonV/ENV" />

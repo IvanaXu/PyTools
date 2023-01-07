@@ -139,4 +139,7 @@ pip install manim
 pip install pyperformance
 
 # 124.Test_Mistune
-$ pip install mistune
+pip install mistune
+
+# 125.Emoji
+pip install emoji

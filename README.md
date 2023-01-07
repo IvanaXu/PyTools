@@ -132,6 +132,7 @@ _Cute Tools By Python_
 122.Pymol, python molecularf分子
 123.Test_pyperformance_pythonV, Python版本测试/For Python3.11
 124.Test_Mistune, Markdown解析
+125.Emoji, Emoji for Python
 ```
 
 **Coming Soon**
