@@ -3,7 +3,10 @@ import pandas as pd
 
 data = []
 TASK = sorted(
-    [i for i in os.listdir() if "3." in i],
+    [
+        i for i in os.listdir() 
+        if "3." in i and os.path.exists(f"{i}/py{i}.log")
+    ],
     key=lambda x: float(x.replace("3.", ""))
 )
 for t in TASK:
@@ -61,6 +64,8 @@ cdata = change(sdata)
 cdata0 = cdata.copy()
 cdata.loc["SUM"] = [""] + [round(cdata0[icol].sum(), 4) for icol in  TASK]
 cdata.loc["AVG"] = [""] + [round(cdata0[icol].mean(), 4) for icol in  TASK]
+_max = max([cdata0[icol].sum() for icol in  TASK])
+cdata.loc["UP%"] = [""] + [f"{_max/cdata0[icol].sum():.4%}" for icol in  TASK]
 
 with open("compare.md", "w") as f:
     f.write("### 0.Source\n")
@@ -72,4 +77,3 @@ with open("compare.md", "w") as f:
     for i in cdata.fillna("/").to_markdown():
         f.write(i)
     f.write("\n\n")
-    
