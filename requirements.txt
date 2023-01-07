@@ -143,3 +143,6 @@ pip install mistune
 
 # 125.Emoji
 pip install emoji
+
+# 126.Test_Prettytable
+pip install prettytable

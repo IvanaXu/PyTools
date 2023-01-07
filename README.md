@@ -133,6 +133,7 @@ _Cute Tools By Python_
 123.Test_pyperformance_pythonV, Python版本测试/For Python3.11
 124.Test_Mistune, Markdown解析
 125.Emoji, Emoji for Python
+126.Test_Prettytable, Python ASCII格式表格
 ```
 
 **Coming Soon**
