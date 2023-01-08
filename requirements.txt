@@ -146,3 +146,6 @@ pip install emoji
 
 # 126.Test_Prettytable
 pip install prettytable
+
+# 127.Test_captcha
+pip install captcha

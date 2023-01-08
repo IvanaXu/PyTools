@@ -134,6 +134,7 @@ _Cute Tools By Python_
 124.Test_Mistune, Markdown解析
 125.Emoji, Emoji for Python
 126.Test_Prettytable, Python ASCII格式表格
+127.Test_captcha, CAPTCHA
 ```
 
 **Coming Soon**
