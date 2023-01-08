@@ -1,5 +1,5 @@
 
-basep=~/Documents/PyTools_Test/123.Test_pyperformance_pythonV
+basep=~/Documents/PyTools/123.Test_pyperformance_pythonV
 regurl=python
 ver=$1
 # 3.9.0/3.10.0/3.11.0
@@ -26,3 +26,4 @@ docker rm t$ver -f
 docker ps -a
 
 docker system prune --volumes -f
+rm -rf $basep/$1/venv
