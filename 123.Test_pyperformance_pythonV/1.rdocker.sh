@@ -5,7 +5,7 @@ ver=$1
 
 cd $basep/Version
 mkdir $1
-cd docker/
+cd ../docker/
 ls -l
 
 #
