@@ -68,12 +68,17 @@ _max = max([cdata0[icol].sum() for icol in  TASK])
 cdata.loc["UP%"] = [""] + [f"{_max/cdata0[icol].sum():.4%}" for icol in  TASK]
 
 with open("compare.md", "w") as f:
-    f.write("### 0.Source\n")
+    f.write("### 0.Version\n")
+    for i in pd.DataFrame(TASK, columns=["version"]).to_markdown(index=None):
+        f.write(i)
+    f.write("\n\n")
+
+    f.write("### 1.Source\n")
     for i in sdata.fillna("/").to_markdown():
         f.write(i)
     f.write("\n\n")
 
-    f.write("### 1.Change(UNIT:ms)\n")
+    f.write("### 2.Change(UNIT:ms)\n")
     for i in cdata.fillna("/").to_markdown():
         f.write(i)
     f.write("\n\n")
