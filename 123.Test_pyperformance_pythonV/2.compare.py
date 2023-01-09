@@ -1,18 +1,20 @@
 import os
 import pandas as pd
 
+path = "Version/"
 data = []
 TASK = sorted(
     [
-        i for i in os.listdir() 
-        if "3." in i and os.path.exists(f"{i}/py{i}.log")
+        i for i in os.listdir(path) 
+        if "3." in i and os.path.exists(f"{path}{i}/py{i}.log")
     ],
     key=lambda x: float(x.replace("3.", ""))
 )
-for t in TASK:
+print(TASK)
 
+for t in TASK:
     t1, t2, tdata = "", "", {}
-    with open(f"{t}/py{t}.log") as f:
+    with open(f"{path}{t}/py{t}.log") as f:
         for i in f:
             i = i.strip("\n")
             

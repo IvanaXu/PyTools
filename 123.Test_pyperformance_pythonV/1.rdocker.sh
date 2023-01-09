@@ -2,9 +2,8 @@
 basep=~/Documents/PyTools/123.Test_pyperformance_pythonV
 regurl=python
 ver=$1
-# 3.9.0/3.10.0/3.11.0
 
-cd $basep/
+cd $basep/Version
 mkdir $1
 cd docker/
 ls -l
@@ -20,10 +19,10 @@ docker images
 #
 echo ----------------------------------------------
 echo test images
-docker run --name t$ver -v $basep/$1:/$1 $regurl:$ver sh run.sh $1
+docker run --name t$ver -v $basep/Version/$1:/$1 $regurl:$ver sh run.sh $1
 docker ps -a
 docker rm t$ver -f
 docker ps -a
 
 docker system prune --volumes -f
-rm -rf $basep/$1/venv
+rm -rf $basep/Version/$1/venv
