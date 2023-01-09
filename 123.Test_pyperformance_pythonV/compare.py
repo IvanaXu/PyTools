@@ -67,7 +67,7 @@ cdata.loc["AVG"] = [""] + [round(cdata0[icol].mean(), 4) for icol in  TASK]
 _max = max([cdata0[icol].sum() for icol in  TASK])
 cdata.loc["UP%"] = [""] + [f"{_max/cdata0[icol].sum():.4%}" for icol in  TASK]
 
-with open("compare.md", "w") as f:
+with open("README.md", "w") as f:
     f.write("### 0.Version\n")
     for i in pd.DataFrame(TASK, columns=["version"]).to_markdown(index=None):
         f.write(i)
