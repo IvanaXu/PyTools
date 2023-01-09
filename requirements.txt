@@ -149,3 +149,6 @@ pip install prettytable
 
 # 127.Test_captcha
 pip install captcha
+
+# 128.Test_pyautogui
+pip install pyautogui
