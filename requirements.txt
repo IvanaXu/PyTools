@@ -152,3 +152,6 @@ pip install captcha
 
 # 128.Test_pyautogui
 pip install pyautogui
+
+# 129.Test_pytube
+pip install pytube
