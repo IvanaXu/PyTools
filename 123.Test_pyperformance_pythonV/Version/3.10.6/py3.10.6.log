@@ -1,0 +1,257 @@
+Performance version: 1.0.6
+Report on Linux-5.15.49-linuxkit-x86_64-with-glibc2.31
+Number of logical CPUs: 2
+Start date: 2023-01-10 15:57:52.307898
+End date: 2023-01-10 17:26:02.375396
+
+### 2to3 ###
+Mean +- std dev: 738 ms +- 21 ms
+
+### async_generators ###
+Mean +- std dev: 718 ms +- 25 ms
+
+### async_tree_none ###
+Mean +- std dev: 1.55 sec +- 0.07 sec
+
+### async_tree_cpu_io_mixed ###
+Mean +- std dev: 2.09 sec +- 0.09 sec
+
+### async_tree_io ###
+Mean +- std dev: 3.60 sec +- 0.14 sec
+
+### async_tree_memoization ###
+Mean +- std dev: 1.90 sec +- 0.11 sec
+
+### chameleon ###
+Mean +- std dev: 24.7 ms +- 0.4 ms
+
+### chaos ###
+Mean +- std dev: 275 ms +- 43 ms
+
+### bench_mp_pool ###
+Mean +- std dev: 23.8 ms +- 5.0 ms
+
+### bench_thread_pool ###
+Mean +- std dev: 3.31 ms +- 0.35 ms
+
+### coroutines ###
+Mean +- std dev: 78.1 ms +- 23.0 ms
+
+### coverage ###
+Mean +- std dev: 122 ms +- 16 ms
+
+### crypto_pyaes ###
+Mean +- std dev: 246 ms +- 44 ms
+
+### deepcopy ###
+Mean +- std dev: 1.23 ms +- 0.09 ms
+
+### deepcopy_reduce ###
+Mean +- std dev: 10.7 us +- 0.2 us
+
+### deepcopy_memo ###
+Mean +- std dev: 147 us +- 2 us
+
+### deltablue ###
+Mean +- std dev: 15.3 ms +- 0.7 ms
+
+### django_template ###
+Mean +- std dev: 131 ms +- 1 ms
+
+### docutils ###
+Mean +- std dev: 7.16 sec +- 0.17 sec
+
+### dulwich_log ###
+Mean +- std dev: 156 ms +- 3 ms
+
+### fannkuch ###
+Mean +- std dev: 1.18 sec +- 0.02 sec
+
+### float ###
+Mean +- std dev: 245 ms +- 16 ms
+
+### generators ###
+Mean +- std dev: 80.8 ms +- 1.7 ms
+
+### genshi_text ###
+Mean +- std dev: 77.3 ms +- 5.6 ms
+
+### genshi_xml ###
+Mean +- std dev: 160 ms +- 2 ms
+
+### go ###
+Mean +- std dev: 504 ms +- 23 ms
+
+### hexiom ###
+Mean +- std dev: 20.8 ms +- 0.3 ms
+
+### html5lib ###
+Mean +- std dev: 191 ms +- 49 ms
+
+### json_dumps ###
+Mean +- std dev: 35.7 ms +- 6.7 ms
+
+### json_loads ###
+Mean +- std dev: 56.1 us +- 1.8 us
+
+### logging_format ###
+Mean +- std dev: 23.7 us +- 0.2 us
+
+### logging_silent ###
+Mean +- std dev: 454 ns +- 44 ns
+
+### logging_simple ###
+Mean +- std dev: 21.7 us +- 0.2 us
+
+### mako ###
+Mean +- std dev: 35.1 ms +- 1.0 ms
+
+### mdp ###
+Mean +- std dev: 7.54 sec +- 0.07 sec
+
+### meteor_contest ###
+Mean +- std dev: 210 ms +- 7 ms
+
+### nbody ###
+Mean +- std dev: 287 ms +- 2 ms
+
+### nqueens ###
+Mean +- std dev: 237 ms +- 16 ms
+
+### pathlib ###
+Mean +- std dev: 52.1 ms +- 1.5 ms
+
+### pickle ###
+Mean +- std dev: 21.8 us +- 2.0 us
+
+### pickle_dict ###
+Mean +- std dev: 66.1 us +- 2.6 us
+
+### pickle_list ###
+Mean +- std dev: 10.4 us +- 0.2 us
+
+### pickle_pure_python ###
+Mean +- std dev: 1.23 ms +- 0.04 ms
+
+### pidigits ###
+Mean +- std dev: 278 ms +- 33 ms
+
+### pprint_safe_repr ###
+Mean +- std dev: 2.74 sec +- 0.08 sec
+
+### pprint_pformat ###
+Mean +- std dev: 5.67 sec +- 0.10 sec
+
+### pyflate ###
+Mean +- std dev: 1.60 sec +- 0.06 sec
+
+### python_startup ###
+Mean +- std dev: 30.8 ms +- 5.9 ms
+
+### python_startup_no_site ###
+Mean +- std dev: 16.0 ms +- 9.6 ms
+
+### raytrace ###
+Mean +- std dev: 1.19 sec +- 0.04 sec
+
+### regex_compile ###
+Mean +- std dev: 389 ms +- 13 ms
+
+### regex_dna ###
+Mean +- std dev: 580 ms +- 15 ms
+
+### regex_effbot ###
+Mean +- std dev: 11.3 ms +- 0.4 ms
+
+### regex_v8 ###
+Mean +- std dev: 78.8 ms +- 6.4 ms
+
+### richards ###
+Mean +- std dev: 170 ms +- 8 ms
+
+### scimark_fft ###
+Mean +- std dev: 1.16 sec +- 0.03 sec
+
+### scimark_lu ###
+Mean +- std dev: 436 ms +- 15 ms
+
+### scimark_monte_carlo ###
+Mean +- std dev: 282 ms +- 14 ms
+
+### scimark_sor ###
+Mean +- std dev: 584 ms +- 22 ms
+
+### scimark_sparse_mat_mult ###
+Mean +- std dev: 21.3 ms +- 1.8 ms
+
+### spectral_norm ###
+Mean +- std dev: 410 ms +- 16 ms
+
+### sqlalchemy_declarative ###
+Mean +- std dev: 308 ms +- 24 ms
+
+### sqlalchemy_imperative ###
+Mean +- std dev: 40.5 ms +- 4.1 ms
+
+### sqlglot_parse ###
+Mean +- std dev: 4.76 ms +- 0.41 ms
+
+### sqlglot_transpile ###
+Mean +- std dev: 5.57 ms +- 0.26 ms
+
+### sqlglot_optimize ###
+Mean +- std dev: 158 ms +- 23 ms
+
+### sqlglot_normalize ###
+Mean +- std dev: 340 ms +- 10 ms
+
+### sqlite_synth ###
+Mean +- std dev: 7.53 us +- 0.70 us
+
+### sympy_expand ###
+Mean +- std dev: 1.13 sec +- 0.06 sec
+
+### sympy_integrate ###
+Mean +- std dev: 52.2 ms +- 11.9 ms
+
+### sympy_sum ###
+Mean +- std dev: 365 ms +- 13 ms
+
+### sympy_str ###
+Mean +- std dev: 675 ms +- 20 ms
+
+### telco ###
+Mean +- std dev: 18.5 ms +- 1.4 ms
+
+### tornado_http ###
+Mean +- std dev: 294 ms +- 25 ms
+
+### unpack_sequence ###
+Mean +- std dev: 123 ns +- 2 ns
+
+### unpickle ###
+Mean +- std dev: 34.4 us +- 1.4 us
+
+### unpickle_list ###
+Mean +- std dev: 11.0 us +- 0.2 us
+
+### unpickle_pure_python ###
+Mean +- std dev: 896 us +- 43 us
+
+### xml_etree_parse ###
+Mean +- std dev: 443 ms +- 27 ms
+
+### xml_etree_iterparse ###
+Mean +- std dev: 281 ms +- 30 ms
+
+### xml_etree_generate ###
+Mean +- std dev: 236 ms +- 9 ms
+
+### xml_etree_process ###
+Mean +- std dev: 202 ms +- 10 ms
+
+CONTAINER ID   IMAGE           COMMAND              CREATED       STATUS                              PORTS     NAMES
+28ef7ffe9825   python:3.10.6   "sh run.sh 3.10.6"   2 hours ago   Exited (0) Less than a second ago             t3.10.6
+t3.10.6
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+Total reclaimed space: 0B
