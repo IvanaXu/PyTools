@@ -158,3 +158,6 @@ pip install pytube
 
 # 130.Test_json
 pip install simplejson ujson
+
+# 131.Test_RSA
+pip install rsa
