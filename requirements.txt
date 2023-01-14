@@ -161,3 +161,6 @@ pip install simplejson ujson
 
 # 131.Test_RSA
 pip install rsa
+
+# 132.Test_ObsPy
+pip install obspy

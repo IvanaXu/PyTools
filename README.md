@@ -139,6 +139,7 @@ _Cute Tools By Python_
 129.Test_pytube, Python下载YouTube
 130.Test_json, Json解析测试
 131.Test_RSA, Python RSA加密
+132.Test_ObsPy, 地震学的Python工具箱
 ```
 
 **Coming Soon**
