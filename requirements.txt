@@ -164,3 +164,6 @@ pip install rsa
 
 # 132.Test_ObsPy
 pip install obspy
+
+# 133.TheAlgorithmsPython
+# https://github.com/TheAlgorithms/Python.git

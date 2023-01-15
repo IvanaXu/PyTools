@@ -140,6 +140,7 @@ _Cute Tools By Python_
 130.Test_json, Json解析测试
 131.Test_RSA, Python RSA加密
 132.Test_ObsPy, 地震学的Python工具箱
+133.TheAlgorithmsPython, 用Python实现的所有算法
 ```
 
 **Coming Soon**
@@ -160,7 +161,7 @@ _Cute Tools By Python_
 Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
  /  /  /  /  /  /  /            1  2  3  4            1  2  3  4  
  /  /  &  /  .  /  .   5  6  7  8  9 10 11   5  6  7  8  9 10 11  
- / 16 17 18 19 20 21  12 13 14 15 16 17 18  12 13 14 15 16 17 18  
+ /  / 17 18 19 20 21  12 13 14 15 16 17 18  12 13 14 15 16 17 18  
 22 23 24 25 26 27 28  19 20 21 22 23 24 25  19 20 21 22 23 24 25  
 29 30 31              26 27 28              26 27 28 29 30 31     
                                                                   
