@@ -8,7 +8,7 @@ TASK = sorted(
         i for i in os.listdir(path) 
         if "3." in i and os.path.exists(f"{path}{i}/py{i}.log")
     ],
-    key=lambda x: float(x.replace("3.", ""))
+    key=lambda x: float(x.replace("M1-3.", "").replace("3.", ""))
 )
 print(TASK)
 
