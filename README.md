@@ -141,6 +141,7 @@ _Cute Tools By Python_
 131.Test_RSA, Python RSA加密
 132.Test_ObsPy, 地震学的Python工具箱
 133.TheAlgorithmsPython, 用Python实现的所有算法
+134.Test_nudepy, Python裸露检测
 ```
 
 **Coming Soon**

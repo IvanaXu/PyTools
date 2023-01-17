@@ -167,3 +167,6 @@ pip install obspy
 
 # 133.TheAlgorithmsPython
 # https://github.com/TheAlgorithms/Python.git
+
+# 134.Test_nudepy
+pip install nudepy
