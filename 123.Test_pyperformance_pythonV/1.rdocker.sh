@@ -1,6 +1,6 @@
 # 2804aa34886ff5b53a6cfeb0fddb392c70a16c8c2144e4f0
 
-basep=~/Documents/PyTools/123.Test_pyperformance_pythonV
+basep=/Volumes/Github/PyTools/123.Test_pyperformance_pythonV
 regurl=python
 ver=$1
 
